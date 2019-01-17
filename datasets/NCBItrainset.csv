@@ -1,0 +1,1302 @@
+diseaseName,class
+skin tumour,DiseaseClass
+cancer,DiseaseClass
+colon cancers,DiseaseClass
+adenomatous polyposis coli,SpecificDisease
+APC,SpecificDisease
+colon and some other cancers,CompositeMention
+skin tumours,DiseaseClass
+pilomatricomas,SpecificDisease
+pilomatricomas,SpecificDisease
+skin tumour,DiseaseClass
+tumour,Modifier
+pilomatricomas,SpecificDisease
+tumours,DiseaseClass
+tumours,DiseaseClass 
+hemochromatosis,Modifier
+hemochromatosis,SpecificDisease
+Hereditary hemochromatosis,SpecificDisease
+HH,SpecificDisease
+autosomal recessive genetic disorder,DiseaseClass
+HH,SpecificDisease
+HH,Modifier
+HH,Modifier
+hemochromatosis,SpecificDisease
+HH,Modifier
+HH,Modifier
+HH,Modifier
+hemochromatosis,SpecificDisease 
+ovarian cancer,Modifier
+breast cancer,Modifier
+ovarian cancer,Modifier
+ovarian cancer,Modifier
+ovarian cancer,Modifier
+ovarian cancer,Modifier
+breast or ovarian cancer,CompositeMention
+cancer,DiseaseClass
+cancer,Modifier
+ovarian cancer,SpecificDisease
+ovarian cancer,Modifier
+ovarian cancer,Modifier
+Familial deficiency of the seventh component of complement,SpecificDisease
+bacteremic infections due to Neisseria,DiseaseClass
+disseminated gonococcal infection,SpecificDisease
+meningococcal meningitis,SpecificDisease
+arthritis,DiseaseClass
+absence of functional C7,Modifier
+Complete absence of C7,SpecificDisease
+meningococcal meningitis,SpecificDisease
+arthritis,DiseaseClass
+C7 deficiency,SpecificDisease
+C7 deficiency,SpecificDisease
+bacteremic neisseria infections,SpecificDisease 
+oromandibular dystonia,SpecificDisease
+oromandibular dystonia,SpecificDisease
+dystonia,DiseaseClass
+dystonic,Modifier
+dopa-responsive dystonia,SpecificDisease
+familial Mediterranean fever,SpecificDisease
+Familial Mediterranean fever,SpecificDisease
+FMF,SpecificDisease
+recessive disorder,DiseaseClass
+serositis,DiseaseClass
+synovitis,DiseaseClass
+FMF,Modifier
+FMF,SpecificDisease
+FMF,SpecificDisease 
+Autoimmune lymphoproliferative syndrome,SpecificDisease
+Autoimmune lymphoproliferative syndrome,SpecificDisease
+ALPS,SpecificDisease
+disorder of lymphocyte homeostasis and immunological tolerance,CompositeMention
+ALPS,Modifier
+ALPS,SpecificDisease
+ALPS,Modifier
+ALPS,Modifier
+ALPS,Modifier
+ALPS,SpecificDisease 
+X-linked adrenoleukodystrophy,SpecificDisease
+X-linked adrenoleukodystrophy,SpecificDisease
+ALD,SpecificDisease
+inherited disease,DiseaseClass
+neurologic dysfunction,SpecificDisease
+adrenal insufficiency,DiseaseClass
+ALD,SpecificDisease
+childhood cerebral ALD,SpecificDisease
+neurologic deterioration,DiseaseClass
+cerebral ALD,SpecificDisease
+neurologic dysfunction,DiseaseClass
+adrenomyeloneuropathy,SpecificDisease
+Addison disease,SpecificDisease
+ALD,SpecificDisease
+childhood cerebral ALD,SpecificDisease
+cerebral ALD,SpecificDisease
+adrenomyeloneuropathy,SpecificDisease
+ALD,SpecificDisease
+cerebral ALD,SpecificDisease
+ALD,Modifier
+ALD,SpecificDisease
+ALD,SpecificDisease 
+Absence of the seventh component of complement,SpecificDisease
+chronic meningococcemia,SpecificDisease
+vasculitis,SpecificDisease
+fever,SpecificDisease
+arthritis,SpecificDisease
+cutaneous vasculitis,SpecificDisease
+chronic meningococcemia,SpecificDisease
+deficiency of the seventh component of complement,SpecificDisease
+deficiency of C7,SpecificDisease
+Chronic neisserial infection,SpecificDisease
+C7 deficiency,SpecificDisease
+cutaneous vasculitis,SpecificDisease 
+dihydropyrimidine dehydrogenase deficiency,SpecificDisease
+Dihydropyrimidine dehydrogenase (DPD) deficiency,SpecificDisease
+autosomal recessive disease,DiseaseClass
+DPD deficiency,SpecificDisease
+deficiency of DPD,SpecificDisease
+DPD,Modifier
+convulsive disorders,DiseaseClass
+motor retardation,DiseaseClass
+mental retardation,DiseaseClass
+clinical abnormalities,DiseaseClass
+DPD deficiency,SpecificDisease 
+glucose-6-phosphate dehydrogenase (G6PD) deficiency,SpecificDisease
+G6PD deficiency,SpecificDisease
+glucose-6-phosphate dehydrogenase (G6PD) deficiency,SpecificDisease
+G6PD deficiency,SpecificDisease
+G6PD deficiency,SpecificDisease 
+Homozygous hypobetalipoproteinemia,SpecificDisease
+abetalipoproproteinemia,SpecificDisease
+homozygous hypobetalipoproteinemia,SpecificDisease
+HBL,SpecificDisease
+HBL,Modifier
+HBL,Modifier
+HBL,Modifier
+HBL,Modifier
+abetalipoproteinemia,SpecificDisease 
+hemochromatosis,Modifier
+Hereditary hemochromatosis,SpecificDisease
+hemochromatosis,Modifier
+excess iron deposits,DiseaseClass
+hemochromatosis,SpecificDisease
+hepatic fibrosis,DiseaseClass
+excessive alcohol consumption,SpecificDisease
+cirrhosis,DiseaseClass
+microvesicular steatosis,SpecificDisease
+hereditary hemochromatosis,SpecificDisease
+hepatomegaly,DiseaseClass
+skin pigmentation,DiseaseClass
+arthritis,DiseaseClass
+hemochromatosis,SpecificDisease 
+Pelizaeus-Merzbacher disease,SpecificDisease
+Pelizaeus-Merzbacher disease,SpecificDisease
+"rare, sex-linked recessive, dysmyelinating disease of the central nervous system",DiseaseClass
+Pelizaeus-Merzbacher disease,SpecificDisease
+Pelizaeus-Merzbacher disease,SpecificDisease
+Pelizaeus-Merzbacher disease,SpecificDisease 
+diastrophic dysplasia,SpecificDisease
+chondrodysplasias,DiseaseClass
+diastrophic dysplasia,SpecificDisease
+platyspondyly,DiseaseClass
+metatropic dysplasia,SpecificDisease 
+Pelizaeus-Merzbacher disease,SpecificDisease
+X-linked Pelizaeus-Merzbacher disease,SpecificDisease
+PMD,SpecificDisease
+PMD,SpecificDisease 
+Gardner syndrome,SpecificDisease
+Gardner syndrome,SpecificDisease
+GS,SpecificDisease
+mental retardation,DiseaseClass
+craniofacial abnormalities,DiseaseClass
+adenomatous polyposis coli,SpecificDisease
+GS,SpecificDisease
+familial polyposis coli,SpecificDisease
+FPC,SpecificDisease 
+Type I human complement C2 deficiency,SpecificDisease
+deficiency of complement protein C2,SpecificDisease
+Type I C2 deficiency,SpecificDisease
+C2-deficient,Modifier
+type I C2 deficiency,SpecificDisease
+type I C2-deficient,Modifier
+type II C2-deficient,Modifier
+type I human complement C2 deficiency,SpecificDisease
+C2-deficient,Modifier
+type II C2 deficiency,SpecificDisease
+genetic defect,DiseaseClass 
+FMR1 deficiency,SpecificDisease
+Fragile X syndrome,SpecificDisease
+mental retardation,DiseaseClass
+macroorchidism,SpecificDisease
+fragile X syndrome,SpecificDisease
+fragile X,Modifier
+anxiety,Modifier
+fragile X syndrome,SpecificDisease 
+Fabry disease,SpecificDisease
+Fabry disease,SpecificDisease
+FD,SpecificDisease
+angiokeratoma corporis diffusum,SpecificDisease
+X-linked inborn error of glycosphingolipid metabolism,DiseaseClass
+angiokeratoma,SpecificDisease
+severe acroparesthesia,SpecificDisease
+renal failure,SpecificDisease
+vasculopathy of the heart and brain,CompositeMention
+alpha-galactosidase deficiency,SpecificDisease
+alpha-Gal A deficiency,SpecificDisease
+FD,SpecificDisease 
+bipolar disorder,SpecificDisease
+bipolar affective disorder,SpecificDisease
+BPAD,SpecificDisease
+BPAD,Modifier
+BPAD,SpecificDisease 
+breast cancer,SpecificDisease
+breast and ovarian cancer,CompositeMention
+breast cancer,SpecificDisease
+breast cancer,SpecificDisease
+breast cancer,SpecificDisease
+breast cancer,SpecificDisease
+breast or ovarian cancer,CompositeMention
+breast cancer,SpecificDisease
+breast or ovarian cancer,CompositeMention
+CHM,Modifier
+choroideremia,SpecificDisease
+Choroideremia,SpecificDisease
+CHM,SpecificDisease
+X-linked progressive degeneration of the choroid and retina,DiseaseClass
+CHM,Modifier
+CHM,Modifier
+CHM,Modifier
+CHM,Modifier
+CHM,Modifier 
+X-linked adrenoleukodystrophy,SpecificDisease
+ALD,SpecificDisease
+ALD,Modifier
+adrenoleukodystrophy,Modifier
+ALD,Modifier
+adolescent ALD,SpecificDisease
+ALD,Modifier
+cerebral ALD,SpecificDisease
+adrenomyeloneuropathy,SpecificDisease
+Addison only,SpecificDisease
+ALD,Modifier
+Duchenne muscular dystrophy,SpecificDisease
+DMD,SpecificDisease
+DMD,SpecificDisease
+muscular injury,DiseaseClass
+muscular dystrophy,SpecificDisease
+DMD,SpecificDisease 
+metabolic disorder,DiseaseClass
+normotriglyceridemic abetalipoproteinemia,SpecificDisease
+normotriglyceridemic abetalipoproteinemia,SpecificDisease
+homozygous hypobetalipoproteinemia,SpecificDisease 
+von Willebrand disease type B,SpecificDisease
+von Willebrand,Modifier
+von Willebrand,Modifier
+von Willebrand disease type B,SpecificDisease
+von Willebrand disease type B,SpecificDisease
+von Willebrand disease type B,SpecificDisease 
+breast-ovarian cancer,Modifier
+breast-ovarian cancer,Modifier
+breast and ovarian cancer,Modifier
+male breast cancer,SpecificDisease
+breast-ovarian syndrome,SpecificDisease 
+autosomal recessive disease glucose/galactose malabsorption,SpecificDisease
+genetic diseases,DiseaseClass 
+Tay-Sachs,Modifier
+Deficiency of beta-hexosaminidase A,SpecificDisease
+Tay-Sachs disease,SpecificDisease
+deficient in Hex A,SpecificDisease
+Tay-Sachs disease,Modifier
+Tay-Sachs disease,Modifier
+Tay-Sachs disease,Modifier
+Tay-Sachs disease,Modifier 
+Tay-Sachs disease,Modifier
+Tay-Sachs disease,SpecificDisease
+TSD,SpecificDisease
+TSD,Modifier
+TSD,Modifier
+TSD,Modifier 
+Canavan disease,SpecificDisease
+Canavan disease,SpecificDisease
+spongy degeneration of the brain,SpecificDisease
+leukodystrophy,SpecificDisease
+deficiency of aspartoacylase,SpecificDisease
+Canavan disease,SpecificDisease 
+Machado-Joseph disease,Modifier
+trinucleotide repeat disorders,DiseaseClass
+Machado-Joseph disease,SpecificDisease
+MJD,SpecificDisease
+MJD,Modifier
+MJD,Modifier 
+DMD,Modifier
+DMD,Modifier
+Duchenne muscular dystrophy,SpecificDisease
+DMD,SpecificDisease
+DMD,Modifier 
+alkaptonuria,SpecificDisease
+AKU,SpecificDisease
+Alkaptonuria,SpecificDisease
+AKU,SpecificDisease
+autosomal recessive disorder,DiseaseClass
+Ochronosis,SpecificDisease
+ochronotic arthropathy,SpecificDisease
+alkaptonuria,SpecificDisease
+alkaptonuria,Modifier
+C9 deficiency,Modifier
+Deficiency of the ninth component of human complement,SpecificDisease
+complement deficiency,DiseaseClass
+C9 deficiency,SpecificDisease
+C9 deficiency,SpecificDisease
+C9 deficiency,SpecificDisease 
+Lesch-Nyhan,Modifier
+Lesch-Nyhan syndrome,SpecificDisease
+hypoxanthine phosphoribosyltransferase [HPRT] deficiency,SpecificDisease 
+X-linked Emery-Dreifuss muscular dystrophy,SpecificDisease
+Emery-Dreifuss muscular dystrophy,SpecificDisease
+EDMD,SpecificDisease
+X-linked recessive muscular dystrophy,DiseaseClass
+"contractures of the elbows, Achilles tendons and spine",CompositeMention
+muscle wasting,DiseaseClass
+weakness,DiseaseClass
+cardiomyopathy,SpecificDisease
+cardiac conduction defects,SpecificDisease
+EDMD,SpecificDisease
+EDMD,Modifier
+EDMD,Modifier
+elbow contractures,SpecificDisease
+ankle contractures,SpecificDisease
+upper limb weakness,SpecificDisease
+lower limb weakness,SpecificDisease
+cardiac involvement,DiseaseClass
+EDMD,SpecificDisease 
+sporadic breast cancer,Modifier
+familial breast and ovarian cancer,Modifier
+non-hereditary (sporadic) breast cancer,SpecificDisease
+carcinoma in situ,DiseaseClass
+invasive cancer,DiseaseClass
+breast cancer,SpecificDisease 
+Pelizaeus-Merzbacher disease,SpecificDisease
+Pelizaeus-Merzbacher disease,SpecificDisease
+PMD,SpecificDisease
+PMD,SpecificDisease
+PMD,SpecificDisease
+genetic disorders,DiseaseClass 
+myotonic dystrophy,SpecificDisease
+myotonic dystrophy,SpecificDisease
+DM,SpecificDisease 
+GM1-gangliosidosis,Modifier
+cardiac involvement,SpecificDisease
+GM1-gangliosidosis,SpecificDisease
+lysosomal storage disorder,DiseaseClass
+deficiency of acid beta-galactosidase,SpecificDisease
+cardiac involvement,DiseaseClass
+GM1-gangliosidosis,SpecificDisease
+cardiac involvement,DiseaseClass
+cardiac abnormalities,DiseaseClass
+genetic lesions,DiseaseClass
+cardiomyopathy,DiseaseClass 
+familial Mediterranean fever,SpecificDisease
+familial Mediterranean fever,SpecificDisease
+FMF,SpecificDisease
+FMF,Modifier
+FMF,SpecificDisease
+FMF,Modifier 
+deficient in Six5,SpecificDisease
+cataracts,SpecificDisease
+myotonic dystrophy,SpecificDisease
+myotonic dystrophy,SpecificDisease
+dominantly inherited disease,DiseaseClass
+muscle dystrophy,SpecificDisease
+myotonia,DiseaseClass
+cataracts,SpecificDisease
+cardiac conduction defects,DiseaseClass
+myopathy,DiseaseClass
+cardiac conduction abnormalities,DiseaseClass
+myotonic dystrophy,SpecificDisease
+myotonia,DiseaseClass
+cataracts,SpecificDisease
+SIX5 deficiency,SpecificDisease
+myotonic dystrophy,Modifier
+abnormalities of skeletal muscle function,DiseaseClass
+lenticular opacities,SpecificDisease
+SIX5 deficiency,SpecificDisease
+cataract,Modifier
+myotonic dystrophy,SpecificDisease
+myotonic dystrophy,SpecificDisease
+multigenic disorder,DiseaseClass 
+familial adenomatous polyposis,Modifier
+adenomatous polyposis coli,Modifier
+APC,Modifier
+familial adenomatous polyposis,Modifier
+FAP,Modifier
+APC,Modifier
+APC,Modifier
+FAP,Modifier
+APC,Modifier
+FAP,Modifier
+APC,Modifier
+APC,Modifier
+FAP,Modifier 
+deficiency of C5,SpecificDisease
+discoid lupus erythematosus,SpecificDisease
+discoid lupus erythematosus,SpecificDisease
+Hypocomplementemia,DiseaseClass
+deficiency of C5,SpecificDisease
+discoid lupus erythematosus,SpecificDisease
+C5 deficiency,SpecificDisease
+Wiskott-Aldrich syndrome,Modifier
+WAS,Modifier
+WAS,SpecificDisease
+thrombocytopenic,Modifier
+Wiskott-Aldrich syndrome,SpecificDisease
+WAS,SpecificDisease
+WAS,Modifier
+WAS,SpecificDisease
+WAS,Modifier
+thrombocytopenia,SpecificDisease
+WAS,SpecificDisease
+WAS,Modifier 
+tumour,Modifier
+inherited breast and ovarian cancers,CompositeMention
+breast cancer,SpecificDisease 
+Spinocerebellar ataxia type-3,SpecificDisease
+Machado-Joseph disease,SpecificDisease
+SCA3,SpecificDisease
+MJD,SpecificDisease
+CAG/polyglutamine repeat disease,DiseaseClass
+polyglutamine disease,DiseaseClass
+neuronal dysfunction,DiseaseClass
+SCA3,SpecificDisease
+MJD,SpecificDisease
+SCA3,SpecificDisease
+MJD,SpecificDisease 
+urogenital abnormalities,DiseaseClass
+Denys-Drash syndrome,SpecificDisease
+Wilms tumor,Modifier
+WT1 dysfunction,SpecificDisease
+neoplastic,Modifier
+Wilms tumor,SpecificDisease
+mesothelioma,SpecificDisease
+leukemias,SpecificDisease
+breast cancer,SpecificDisease
+nonneoplastic,Modifier
+glomerulosclerosis,SpecificDisease
+Denys-Drash syndrome,SpecificDisease
+DDS,SpecificDisease
+DDS,SpecificDisease
+nephropathy,SpecificDisease
+mesangial sclerosis,SpecificDisease
+pseudohermaphroditism,SpecificDisease
+Wilms tumor,SpecificDisease
+WT,SpecificDisease
+DDS,Modifier
+mesangial sclerosis,SpecificDisease
+DDS,SpecificDisease
+Male genital defects,DiseaseClass
+Wilms tumor,SpecificDisease
+Wt1 dysfunction,SpecificDisease
+Wilms tumorigenesis,SpecificDisease
+WT,SpecificDisease
+X-linked Emery-Dreifuss muscular dystrophy,SpecificDisease
+contractures of the Achilles tendons,DiseaseClass
+contractures of the elbows,DiseaseClass
+cardiac abnormality,DiseaseClass
+X-linked Emery-Dreifuss muscular dystrophy,SpecificDisease
+EDMD,SpecificDisease
+EDMD,SpecificDisease
+sudden cardiac death,SpecificDisease
+Adrenoleukodystrophy,SpecificDisease
+adrenoleukodystrophy,Modifier
+ALD,Modifier
+ALD,Modifier
+ALD,Modifier
+ALD,Modifier 
+Glucose-6-phosphate dehydrogenase deficiency,SpecificDisease
+Glucose-6-phosphate dehydrogenase (G6PD; EC 1. 1. 1. 49) -deficient,Modifier
+malaria,Modifier
+G6PD deficiency,SpecificDisease
+G6PD deficiency,SpecificDisease
+thalassemia,Modifier
+G6PD deficiency,SpecificDisease
+malarious,Modifier
+malaria,SpecificDisease
+fatal hemolysis,SpecificDisease
+C3 deficiency,SpecificDisease
+glomerulonephritis,SpecificDisease
+deficiency of the third component of complement,SpecificDisease
+bacterial infections,DiseaseClass
+pneumonia,SpecificDisease
+mesangiopathic glomerulonephritis,SpecificDisease
+C3 deficiency,SpecificDisease
+immune-complex disease,DiseaseClass
+pyogenic infections,DiseaseClass
+C3 deficiency,SpecificDisease 
+Lesch-Nyhan syndrome,SpecificDisease
+HPRT enzyme deficiency,SpecificDisease
+Lesch-Nyhan syndrome,SpecificDisease 
+tumor,Modifier
+familial breast and ovarian cancers,CompositeMention
+breast cancer,Modifier 
+Duchenne muscular dystrophy,SpecificDisease
+Duchenne muscular dystrophy,SpecificDisease
+DMD,SpecificDisease
+DMD,Modifier
+DMD,SpecificDisease 
+Myotonic dystrophy,Modifier
+myotonic dystrophy,SpecificDisease
+DM,SpecificDisease
+myotonic dystrophy,Modifier
+DM,Modifier
+DM,SpecificDisease
+DM,SpecificDisease 
+enzyme deficiency,DiseaseClass
+haemolysis,SpecificDisease
+G6PD deficiency,SpecificDisease 
+breast cancer,Modifier
+autosomal recessive disorder,DiseaseClass
+ataxia-telangiectasia,SpecificDisease
+A-T,SpecificDisease
+breast cancer,SpecificDisease
+breast cancer,SpecificDisease
+sporadic breast cancer,SpecificDisease
+breast cancer,SpecificDisease 
+Autoimmune lymphoproliferative syndrome,SpecificDisease
+ALPS,SpecificDisease
+Autoimmune lymphoproliferative syndrome,SpecificDisease
+ALPS,SpecificDisease
+ALPS,SpecificDisease
+ALPS,Modifier
+ALPS,Modifier 
+galactosemia,SpecificDisease
+galactosemia,SpecificDisease
+classic galactosemia,SpecificDisease
+galactosemia,SpecificDisease
+galactosemia,SpecificDisease
+galactosemia,SpecificDisease
+galactosemia,SpecificDisease 
+myotonic dystrophy,Modifier
+Myotonic dystrophy,SpecificDisease
+DM,SpecificDisease
+inherited neuromuscular disease,DiseaseClass
+genetic defect,DiseaseClass
+myotonic dystrophy,Modifier
+DM,Modifier 
+van der Woude syndrome,SpecificDisease
+cleft palate,SpecificDisease
+van der Woude syndrome,SpecificDisease
+VWS,SpecificDisease
+pits and/or sinuses of the lower lip,CompositeMention
+cleft lip/palate,SpecificDisease
+CL/P,SpecificDisease
+cleft palate,SpecificDisease
+CP,SpecificDisease
+bifid uvula,SpecificDisease
+hypodontia,SpecificDisease
+H,SpecificDisease
+VWS,SpecificDisease
+CL/P,SpecificDisease
+CP,SpecificDisease
+CP,SpecificDisease
+VWS,SpecificDisease
+clefts,DiseaseClass
+VWS,SpecificDisease
+CP,SpecificDisease
+VWS,SpecificDisease
+VWS,Modifier
+CP,SpecificDisease
+VWS,Modifier 
+enzyme deficiency,DiseaseClass
+hemolytic anemia,SpecificDisease
+Glucose-6-phosphate dehydrogenase (G6PD; EC 1. 1. 1. 49) deficiency,SpecificDisease
+genetic abnormality,DiseaseClass
+enzyme deficiency,DiseaseClass
+favism,DiseaseClass
+neonatal jaundice,DiseaseClass
+hemolytic anemia,SpecificDisease
+G6PD deficiency,SpecificDisease 
+CETP deficiency,SpecificDisease
+CETP deficiency,SpecificDisease
+hypercholesterolemia,SpecificDisease
+CETP deficiency,SpecificDisease
+CETP deficiency,SpecificDisease
+premature atherosclerosis,SpecificDisease
+CETP deficiency,SpecificDisease
+CETP deficiency,SpecificDisease 
+deficiency of the seventh component of complement,SpecificDisease
+meningococcal infection,SpecificDisease
+Terminal complement component deficiency,SpecificDisease
+meningococcal infection,SpecificDisease
+meningococcal infection,SpecificDisease
+terminal complement deficiency,SpecificDisease
+completely deficient in the seventh component of complement,SpecificDisease
+C7 deficiency,Modifier
+C7 deficient,SpecificDisease
+meningococcal infection,SpecificDisease
+meningococcal,Modifier
+complement deficient,Modifier 
+muscular dystrophy,DiseaseClass
+Duchenne or Becker muscular dystrophy,CompositeMention
+DMD,SpecificDisease
+BMD,SpecificDisease
+DMD,Modifier
+BMD,Modifier
+DMD,Modifier
+DMD,SpecificDisease 
+retinoblastoma,Modifier
+hereditary retinoblastoma,SpecificDisease
+retinoblastoma,Modifier
+hereditary retinoblastoma,SpecificDisease
+retinoblastoma,Modifier 
+PDS,Modifier
+Pendred syndrome,SpecificDisease
+non-syndromic hearing loss,SpecificDisease
+DFNB4,SpecificDisease
+PDS,Modifier
+Pendred syndrome,SpecificDisease
+autosomal recessive non-syndromic hearing loss,SpecificDisease
+DFNB4,Modifier
+non-syndromic hearing loss,SpecificDisease
+PDS,Modifier
+PDS,Modifier
+Pendred syndrome,SpecificDisease
+PDS,Modifier
+non-syndromic hearing loss,SpecificDisease
+Pendred syndrome,Modifier
+PDS,Modifier
+non-syndromic hearing loss,SpecificDisease
+Pendred syndrome,SpecificDisease
+DFNB4,SpecificDisease
+goiter,DiseaseClass
+DFNB4,SpecificDisease 
+metachromatic leukodystrophy,SpecificDisease
+metachromatic leukodystrophy,SpecificDisease
+MLD,SpecificDisease
+MLD,SpecificDisease
+MLD,Modifier
+MLD,SpecificDisease
+Classical galactosemia,SpecificDisease
+Classical galactosemia,SpecificDisease
+galactosemia,SpecificDisease 
+X-linked retinoschisis,SpecificDisease
+X-linked retinoschisis,SpecificDisease
+XLRS,SpecificDisease
+vitreoretinal dystrophy,DiseaseClass
+visual loss,SpecificDisease
+XLRS,Modifier
+XLRS,SpecificDisease
+genetic abnormalities,DiseaseClass
+XLRS,SpecificDisease
+XLRS,SpecificDisease
+hypomyelination,SpecificDisease
+glial cell death,SpecificDisease
+genetic disorders,DiseaseClass
+Pelizaeus-Merzbacher disease,SpecificDisease
+degeneration and premature cell death of oligodendrocytes,CompositeMention
+hypomyelination,SpecificDisease
+myelin-deficient,SpecificDisease
+Hypomyelination,SpecificDisease
+oligodendrocyte degeneration,SpecificDisease
+Pelizaeus-Merzbacher disease,SpecificDisease 
+alkaptonuria,Modifier
+Alkaptonuria,SpecificDisease
+AKU,SpecificDisease
+inborn error of metabolism,DiseaseClass
+AKU,Modifier
+AKU,Modifier
+AKU,Modifier
+AKU,Modifier 
+X-linked adrenoleukodystrophy,Modifier
+Adrenoleukodystrophy,SpecificDisease
+ALD,SpecificDisease
+X-linked disease,DiseaseClass
+cerebral ALD,SpecificDisease
+adrenomyeloneuropathy,SpecificDisease
+AMN,SpecificDisease
+ALD,SpecificDisease
+Central nervous system demyelination,DiseaseClass
+AMN,SpecificDisease
+Adrenal insufficiency,DiseaseClass
+Addisons disease,SpecificDisease
+ALD,SpecificDisease
+ALD,SpecificDisease
+ALD,SpecificDisease
+ALD,SpecificDisease
+ALD,Modifier 
+Brugada syndrome,SpecificDisease
+congenital long-QT syndrome,SpecificDisease
+LQT3,SpecificDisease
+idiopathic ventricular fibrillation,SpecificDisease
+IVF,SpecificDisease
+IVF,SpecificDisease
+LQT3,Modifier
+IVF,SpecificDisease 
+Autosomal recessive familial neurohypophyseal diabetes insipidus,SpecificDisease
+Familial neurohypophyseal diabetes insipidus,SpecificDisease
+autosomal dominant disorder,DiseaseClass
+arginine vasopressin (AVP) deficiency,SpecificDisease
+neuronal damage,DiseaseClass
+neurohypophyseal diabetes insipidus,SpecificDisease
+deficiency of active AVP,DiseaseClass 
+aniridia,SpecificDisease
+aniridia,SpecificDisease
+aniridia,Modifier
+aniridia,SpecificDisease
+aniridia,SpecificDisease 
+Knobloch syndrome,SpecificDisease
+midline scalp defect of the frontal region,DiseaseClass
+Knobloch syndrome,SpecificDisease
+vitreoretinal degeneration,SpecificDisease
+high myopia,SpecificDisease
+cataract,SpecificDisease
+telecanthus,SpecificDisease
+hypertelorism,SpecificDisease
+high-arched palate,SpecificDisease
+defect of the anterior midline scalp,DiseaseClass
+midline scalp defects,DiseaseClass 
+Pendred syndrome,SpecificDisease
+PDS,Modifier
+Pendred syndrome,SpecificDisease
+congenital sensorineural hearing loss,SpecificDisease
+thyroid goiter,SpecificDisease
+autosomal recessive disorder,DiseaseClass
+PDS,Modifier
+PDS,Modifier
+congenital deafness,SpecificDisease
+widened vestibular aqueduct,SpecificDisease
+goiter,SpecificDisease
+Pendred syndrome,SpecificDisease
+PDS,Modifier
+congenital hearing loss,SpecificDisease
+inner ear morphological anomaly,SpecificDisease
+thyroid goiter,SpecificDisease 
+familial adenomatous polyposis,SpecificDisease
+tumor,Modifier
+tumors,DiseaseClass
+FAP,SpecificDisease
+familial adenomatous polyposis,SpecificDisease
+sporadic colorectal cancers,SpecificDisease
+APC,Modifier
+attenuated polyposis,Modifier
+APC,Modifier
+FAP,Modifier
+APC,Modifier
+colorectal adenomas,SpecificDisease
+FAP,Modifier
+APC,Modifier
+APC,Modifier
+FAP desmoids,SpecificDisease
+tumor,Modifier
+tumors,DiseaseClass
+tumors,DiseaseClass 
+VLCAD deficiency,SpecificDisease
+VLCAD deficiency,SpecificDisease
+cardiac disease,DiseaseClass
+hypertrophic cardiomyopathy,SpecificDisease
+cardiac disease,DiseaseClass 
+Lesch-Nyhan,Modifier
+Lesch-Nyhan syndrome,SpecificDisease
+complete deficiency of hypoxanthine guanine phosphoribosyltransferase,SpecificDisease
+Lesch-Nyhan syndrome,SpecificDisease
+HPRT deficient,Modifier 
+hyperphenylalaninemia,DiseaseClass
+PKU,Modifier
+classical phenylketonuria,SpecificDisease 
+hemochromatosis,SpecificDisease
+HFE deficiency,SpecificDisease
+hemochromatosis,SpecificDisease
+HFE-deficient,Modifier
+G6PD deficiency,SpecificDisease
+G6PD deficiency,SpecificDisease
+G6PD deficiency,SpecificDisease
+malaria,SpecificDisease 
+G6PD deficiency,SpecificDisease 
+Wiskott-Aldrich syndrome,SpecificDisease
+Wiskott-Aldrich syndrome,Modifier
+Wiskott-Aldrich syndrome,SpecificDisease
+WAS,SpecificDisease
+WAS,Modifier
+WAS,Modifier
+WAS,Modifier
+WAS,Modifier
+WAS,Modifier
+WAS,Modifier
+WAS,Modifier 
+adrenoleukodystrophy,SpecificDisease
+adrenomyeloneuropathy,SpecificDisease
+adrenoleukodystrophy,SpecificDisease
+ALD,SpecificDisease
+adrenomyeloneuropathy,SpecificDisease
+AMN,SpecificDisease
+ALD,SpecificDisease
+AMN,SpecificDisease
+ALD,SpecificDisease
+AMN,SpecificDisease
+ALD,SpecificDisease
+AMN,SpecificDisease
+ALD,SpecificDisease
+AMN,SpecificDisease
+ALD,Modifier
+AMN,Modifier 
+Tay-Sachs disease,Modifier
+Tay-Sachs disease,SpecificDisease
+TSD,SpecificDisease
+TSD,Modifier
+TSD,Modifier
+TSD,Modifier 
+Huntington disease,Modifier
+Huntington disease,SpecificDisease
+HD,SpecificDisease
+autosomal dominant neurodegenerative disorder,DiseaseClass 
+myotonic dystrophy,SpecificDisease
+muscular dystrophy,DiseaseClass
+myotonic dystrophy,SpecificDisease
+DM,SpecificDisease
+DM,Modifier
+DM,Modifier 
+hemochromatosis,SpecificDisease 
+Li-Fraumeni syndrome,Modifier
+Li-Fraumeni syndrome,SpecificDisease
+autosomal dominant disorder,DiseaseClass
+cancer,DiseaseClass
+cancers,DiseaseClass
+Li-Fraumeni syndrome,SpecificDisease
+cancer,DiseaseClass
+Li-Fraumeni syndrome,SpecificDisease
+tumor,Modifier
+seminoma,SpecificDisease
+medulloblastoma,SpecificDisease
+seminoma,SpecificDisease
+tumor,Modifier
+Li-Fraumeni syndrome,SpecificDisease
+seminoma,SpecificDisease
+medulloblastoma,SpecificDisease
+tumorogenesis,DiseaseClass
+tumor,Modifier 
+phenylketonuria,SpecificDisease
+Phenylketonuria,SpecificDisease
+PKU,SpecificDisease
+autosomal recessive human genetic disorder,DiseaseClass
+deficiency of hepatic phenylalanine hydroxylase,SpecificDisease
+PKU,SpecificDisease
+inborn error of amino-acid metabolism,DiseaseClass
+PKU,Modifier
+PKU,SpecificDisease
+PKU,Modifier
+molecular lesion,DiseaseClass 
+Duchenne muscular dystrophy,SpecificDisease
+DMD,SpecificDisease
+DMD,SpecificDisease
+DMD,SpecificDisease
+DMD,SpecificDisease
+DMD,SpecificDisease
+DMD,SpecificDisease 
+APC,Modifier
+Familial adenomatous polyposis,SpecificDisease
+FAP,SpecificDisease
+colorectal cancer,SpecificDisease
+adenomatous polyposis coli,SpecificDisease
+APC,SpecificDisease
+APC,Modifier
+FAP,Modifier
+familial adenomatous polyposis,SpecificDisease
+APC,Modifier
+APC,Modifier
+FAP,Modifier
+FAP,SpecificDisease
+Duchenne muscular dystrophy,SpecificDisease
+Duchenne muscular dystrophy,SpecificDisease
+DMD,SpecificDisease
+DMD,Modifier
+DMD,Modifier
+DMD,Modifier
+DMD,Modifier
+DMD,Modifier
+DMD,Modifier 
+glucose-6-phosphate dehydrogenase (G6PD) deficiency,SpecificDisease
+glucose-6-phosphate dehydrogenase (G6PD) -deficient,Modifier
+G6PD-deficient,Modifier
+G6PD-deficient,Modifier
+G6PD-deficient,Modifier
+G6PD deficiency,SpecificDisease 
+Norrie disease,Modifier
+Norrie disease,SpecificDisease
+pseudoglioma,SpecificDisease
+NDP,SpecificDisease
+X-linked neurodevelopmental disorder,DiseaseClass
+NDP,Modifier
+Norrie,Modifier
+NDP,Modifier
+NDP,Modifier 
+Wolman disease,SpecificDisease
+Wolman disease,SpecificDisease
+Wolman disease,SpecificDisease
+Wolman disease,SpecificDisease 
+sporadic ovarian tumours,SpecificDisease
+autosomal dominant syndrome,DiseaseClass
+breast and ovarian cancer,CompositeMention
+tumours,DiseaseClass
+tumour,DiseaseClass
+ovarian cancers,SpecificDisease
+tumours,DiseaseClass
+tumour,Modifier
+ovarian cancers,SpecificDisease 
+Duchenne muscular dystrophy,SpecificDisease
+muscular dystrophy,DiseaseClass
+Duchenne muscular dystrophy,SpecificDisease
+DMD,SpecificDisease
+limb-girdle muscular dystrophy,SpecificDisease
+DMD,Modifier
+DMD,Modifier
+myopathy,DiseaseClass
+DMD,Modifier
+uniparental disomy,SpecificDisease
+DMD,Modifier 
+Kaposi sarcoma,SpecificDisease
+T-cell lymphoma,SpecificDisease
+Wiskott-Aldrich syndrome,SpecificDisease
+eczema,DiseaseClass
+thrombocytopenia,SpecificDisease
+Wiskott-Aldrich syndrome,SpecificDisease
+WAS,SpecificDisease
+lymphadenopathy,SpecificDisease
+splenomegaly,SpecificDisease
+thrombocytopenia,SpecificDisease
+WAS,SpecificDisease
+Kaposi sarcoma,SpecificDisease
+T-cell large cell lymphoma,SpecificDisease
+Epstein-Barr virus,SpecificDisease
+cytomegalovirus,SpecificDisease
+human immunodeficiency virus,SpecificDisease
+HIV,SpecificDisease
+Kaposi sarcoma,SpecificDisease
+congenital immunodeficiency syndrome,DiseaseClass
+Kaposi sarcoma,SpecificDisease
+HIV,SpecificDisease
+Kaposi sarcoma,SpecificDisease
+Combined genetic deficiency of C6 and C7,CompositeMention
+sub-total deficiency of C6 and C7,CompositeMention
+C6 deficiency,SpecificDisease 
+Langer-Giedion syndrome,SpecificDisease
+Langer-Giedion syndrome,SpecificDisease
+LGS,SpecificDisease
+LGS,SpecificDisease
+LGS,SpecificDisease
+LGS,SpecificDisease
+LGS,SpecificDisease 
+Friedreich ataxia,SpecificDisease
+Frataxin deficiency,SpecificDisease
+Friedreich ataxia,SpecificDisease
+FRDA,SpecificDisease
+autosomal recessive cardiodegenerative and neurodegenerative disease,DiseaseClass
+mitochondrial iron accumulation,SpecificDisease
+hypersensitivity to oxidative stress,SpecificDisease
+FRDA,SpecificDisease 
+G6PD deficiency,SpecificDisease
+episodic hemolytic anemia,SpecificDisease
+life-long hemolytic anemia,SpecificDisease
+G6PD deficiency,SpecificDisease
+G6PD deficiency,SpecificDisease 
+APC,Modifier
+adenomatous polyposis coli,SpecificDisease
+adenomatous polyposis coli,SpecificDisease
+APC,SpecificDisease
+cancer,Modifier
+APC,Modifier
+APC,Modifier
+glucose-6-phosphate dehydrogenase deficiency,SpecificDisease
+G6PD deficiency,SpecificDisease
+G6PD deficiency,SpecificDisease
+galactosemia,Modifier
+GALT deficiency,SpecificDisease
+GALT deficiency,SpecificDisease
+classic galactosemia,Modifier
+galactosemia,Modifier
+classic galactosemia,Modifier 
+diastrophic dysplasia,SpecificDisease
+diastrophic dysplasia,SpecificDisease
+DTD,SpecificDisease
+DTD,Modifier
+adrenoleukodystrophy protein deficiency,SpecificDisease
+X-ALD,SpecificDisease
+Inherited defects,DiseaseClass
+adrenoleukodystrophy,Modifier
+peroxisomal disorder,DiseaseClass
+X-linked adrenoleukodystrophy,SpecificDisease
+X-ALD,SpecificDisease
+X-ALD,Modifier
+X-ALD,SpecificDisease
+fragile X syndrome,Modifier 
+X-linked amelogenesis imperfecta,SpecificDisease
+inherited dental abnormality,DiseaseClass
+X-linked amelogenesis imperfecta,SpecificDisease
+XAI,SpecificDisease
+XAI,SpecificDisease
+XAI,SpecificDisease
+XAI disease,SpecificDisease
+XAI,SpecificDisease 
+hemochromatosis,Modifier
+hemochromatosis,Modifier
+hemochromatosis,Modifier
+hemochromatosis,Modifier
+hemochromatosis,Modifier
+hemochromatosis,Modifier
+hemochromatosis,Modifier
+HFE defect,SpecificDisease 
+G6PD deficiency,SpecificDisease
+malaria,SpecificDisease
+Glucose-6-phosphate dehydrogenase (G6PD) deficiency,SpecificDisease
+enzymopathy,DiseaseClass
+malaria,SpecificDisease
+malaria,SpecificDisease
+G6PD deficiency,SpecificDisease
+malaria,SpecificDisease
+X-linked disorder,DiseaseClass
+G6PD deficiency,SpecificDisease
+G6PD A-,SpecificDisease
+malaria,SpecificDisease
+malaria,SpecificDisease
+enzyme deficiency,DiseaseClass
+malaria,Modifier
+G6PD deficiency,SpecificDisease 
+Prader-Willi syndrome,SpecificDisease
+chromosome 15 anomaly,SpecificDisease
+Prader-Willi syndrome,SpecificDisease
+PWS,SpecificDisease
+PWS,SpecificDisease
+PWS,SpecificDisease
+PWS,SpecificDisease 
+phenylketonuria,SpecificDisease
+hyperphenylalaninemias,DiseaseClass
+phenylketonuria,SpecificDisease
+hyperphenylalaninemia,DiseaseClass 
+Tay-Sachs disease,Modifier
+Tay-Sachs disease,SpecificDisease
+TSD,SpecificDisease
+TSD,Modifier
+TSD,Modifier
+TSD,Modifier
+pyoderma gangrenosum,SpecificDisease
+C7 deficiency,SpecificDisease
+pyoderma gangrenosum,SpecificDisease
+PG,SpecificDisease
+systemic diseases,DiseaseClass
+congenital complement deficiencies,DiseaseClass
+PG,SpecificDisease
+C7 deficiency,SpecificDisease
+Deficiencies of C7,SpecificDisease
+immunologic abnormalities,DiseaseClass
+PG,SpecificDisease
+PG,SpecificDisease 
+Emerin deficiency,SpecificDisease
+Emery-Dreifuss muscular dystrophy,SpecificDisease
+X-linked Emery-Dreifuss muscular dystrophy,SpecificDisease
+EDMD,SpecificDisease
+neuromuscular diseases,DiseaseClass
+EDMD,SpecificDisease
+EDMD,Modifier
+deficiency of emerin,SpecificDisease
+EDMD,SpecificDisease 
+melanoma,SpecificDisease
+tumor,Modifier
+melanoma,SpecificDisease
+melanoma,Modifier
+melanoma,SpecificDisease
+melanomas,SpecificDisease
+tumor,Modifier
+tumor,Modifier 
+familial neurohypophyseal diabetes insipidus,SpecificDisease
+Familial neurohypophyseal diabetes insipidus,SpecificDisease
+FNDI,SpecificDisease
+deficiency of the hormone arginine vasopressin,DiseaseClass
+FNDI,SpecificDisease
+FNDI,SpecificDisease
+Machado-Joseph disease,SpecificDisease
+MJD,SpecificDisease
+neurodegenerative disorders,DiseaseClass
+progressive cerebellar ataxia,SpecificDisease
+spinocerebellar ataxia type 3,SpecificDisease
+SCA3,SpecificDisease
+MJD,SpecificDisease
+degeneration of certain brain areas,DiseaseClass 
+alveolar rhabdomyosarcoma,Modifier
+solid tumors,DiseaseClass
+alveolar rhabdomyosarcoma,SpecificDisease
+tumor,Modifier 
+Myotonia levior,SpecificDisease
+chloride channel disorder,DiseaseClass
+dominant non-dystrophic myotonias,DiseaseClass
+Dominant myotonia congenita,SpecificDisease
+Thomsens disease,SpecificDisease
+dominant myotonias,DiseaseClass
+myotonia levior,SpecificDisease
+myotonia,DiseaseClass
+Thomsens disease,SpecificDisease
+muscle hypertrophy,SpecificDisease
+myotonia levior,SpecificDisease
+Thomsens disease,SpecificDisease
+Thomsens disease,SpecificDisease
+recessive myotonia,DiseaseClass 
+cholesterol acyltransferase deficiency,SpecificDisease
+fish-eye disease,SpecificDisease
+Classic (complete) lecithin  cholesterol acyltransferase (LCAT) deficiency,CompositeMention
+Fish-eye disease,SpecificDisease
+partial LCAT deficiency,SpecificDisease
+atherosclerotic cardiovascular disease,SpecificDisease
+LCAT deficiency,SpecificDisease
+classic LCAT deficiency,SpecificDisease
+Fish-eye disease,SpecificDisease
+complete or partial LCAT deficiency,CompositeMention
+atherosclerosis,SpecificDisease
+classic LCAT deficiency,SpecificDisease
+Fish-eye disease,SpecificDisease
+atherosclerosis,SpecificDisease 
+attenuated APC,Modifier
+APC,Modifier
+adenomatous polyps of the colon and rectum,CompositeMention
+colorectal cancer,SpecificDisease
+APC,Modifier
+attenuated adenomatous polyposis coli,SpecificDisease
+AAPC,SpecificDisease
+AAPC,SpecificDisease
+colorectal polyps,SpecificDisease
+colorectal cancer,SpecificDisease
+APC,Modifier
+AAPC,Modifier
+APC,Modifier
+APC,Modifier
+APC,Modifier
+attenuated polyposis,Modifier 
+aspartylglucosaminuria,SpecificDisease
+AGU,SpecificDisease
+Aspartylglucosaminuria,SpecificDisease
+AGU,SpecificDisease
+AGU,Modifier
+AGU,Modifier 
+X-linked adrenoleukodystrophy,SpecificDisease
+X-linked adrenoleukodystrophy,SpecificDisease
+ALD,SpecificDisease
+ALD,SpecificDisease
+ALD,SpecificDisease
+ALD,SpecificDisease
+abnormalities in the vision blindness genes,DiseaseClass 
+hemochromatosis,Modifier
+Genetic hemochromatosis,SpecificDisease
+GH,SpecificDisease
+GH,Modifier
+GH,Modifier
+infectious diseases,DiseaseClass
+genetic disorders,DiseaseClass
+anemia,DiseaseClass 
+Lesch-Nyhan,Modifier
+Lesch-Nyhan syndrome,SpecificDisease
+Lesch-Nyhan,Modifier
+Lesch-Nyhan syndrome,SpecificDisease 
+Familial Mediterranean fever,SpecificDisease
+Familial Mediterranean fever,SpecificDisease
+FMF,SpecificDisease
+recessively inherited disorder,DiseaseClass
+serosal inflammation,SpecificDisease
+Renal amyloidosis,SpecificDisease
+FMF,SpecificDisease
+FMF,Modifier
+FMF,Modifier
+FMF,Modifier
+renal amyloidosis,SpecificDisease
+arthritis,SpecificDisease 
+Huntington disease,Modifier
+HD,Modifier
+HD,Modifier
+HD,SpecificDisease 
+APC,Modifier
+colorectal polyps,SpecificDisease
+familial adenomatous polyposis,Modifier
+adenomatous polyposis coli,Modifier
+APC,Modifier
+familial adenomatous polyposis,SpecificDisease
+FAP,SpecificDisease
+FAP,Modifier
+APC,Modifier
+colorectal polyps,SpecificDisease
+FAP,Modifier
+FAP,Modifier
+polyps,DiseaseClass
+FAP,Modifier
+polyps,DiseaseClass
+APC,Modifier
+colorectal polyps,SpecificDisease
+FAP,Modifier
+APC,Modifier 
+Duchenne/Becker muscular dystrophy,CompositeMention
+Duchenne and Becker muscular dystrophy,CompositeMention
+DMD,SpecificDisease
+BMD,SpecificDisease
+DMD,SpecificDisease
+DMD,Modifier
+BMD,Modifier
+DMD,Modifier
+BMD,Modifier
+DMD defects,DiseaseClass
+muscle disease,Modifier 
+galactosemia,Modifier
+galactosemia,Modifier
+galactosemia,Modifier
+galactosemia,SpecificDisease
+galactosemia,Modifier 
+Gaucher disease,SpecificDisease
+Gaucher disease,SpecificDisease
+GD,SpecificDisease
+lysosomal storage disorder,DiseaseClass 
+Prader-Willi syndrome,SpecificDisease
+Prader-Willi syndrome,SpecificDisease
+PWS,SpecificDisease
+PWS,Modifier
+neurodevelopmentally handicapped,Modifier
+PWS,Modifier
+PWS,Modifier
+PWS,SpecificDisease
+neurodevelopmentally handicapped,Modifier
+hypothalamic abnormalities,DiseaseClass 
+cerebrotendinous xanthomatosis,SpecificDisease
+genetic disease,DiseaseClass
+cerebrotendinous xanthomatosis,SpecificDisease
+CTX,SpecificDisease
+Abnormalities in the HDL,DiseaseClass
+CTX,Modifier
+CTX,SpecificDisease
+CTX,Modifier
+genetic defect,DiseaseClass
+CTX,SpecificDisease
+Papillon-Lefevre syndrome,SpecificDisease
+Papillon-Lefevre syndrome,SpecificDisease
+PLS,SpecificDisease
+autosomal recessive disorder,DiseaseClass
+palmoplantar hyperkeratosis,SpecificDisease
+periodontitis,SpecificDisease
+PLS,SpecificDisease
+PLS,SpecificDisease
+PLS,SpecificDisease
+PLS,Modifier
+palmoplantar hyperkeratosis,SpecificDisease
+periodontitis,SpecificDisease
+PLS,SpecificDisease
+periodontal disease,Modifier 
+Lesch-Nyhan syndrome,SpecificDisease
+deficiency of hypoxanthine-guanine phosphoribosyltransferase,SpecificDisease
+Lesch-Nyhan syndrome,SpecificDisease
+Lesch-Nyhan syndrome,SpecificDisease 
+retinoblastoma,Modifier
+retinoblastoma,Modifier
+retinoblastoma,Modifier
+retinoblastoma,Modifier 
+Denys-Drash syndrome,SpecificDisease
+Denys-Drash syndrome,SpecificDisease
+nephropathy,DiseaseClass
+genital abnormalities,DiseaseClass
+Wilms tumor,SpecificDisease
+renal failure,SpecificDisease
+Wilms tumor,Modifier 
+prolidase deficiency,SpecificDisease
+prolidase deficiency,SpecificDisease
+autosomal recessive disorder,DiseaseClass
+iminodipeptiduria,SpecificDisease
+skin ulcers,SpecificDisease
+mental retardation,DiseaseClass
+prolidase deficiency,SpecificDisease 
+isolated aniridia,SpecificDisease
+isolated aniridia,SpecificDisease
+aniridia,SpecificDisease 
+X-linked Emery-Dreifuss muscular dystrophy,SpecificDisease
+Emery-Dreifuss muscular dystrophy,SpecificDisease
+EMD,SpecificDisease
+X-linked EMD,SpecificDisease
+ankle contractures,DiseaseClass
+muscle weakness,DiseaseClass
+Duchenne muscular dystrophy,Modifier
+Duchenne and the milder Becker muscular dystrophies,CompositeMention
+dystrophic syndrome,SpecificDisease
+Duchenne/Becker muscular dystrophy,CompositeMention
+Duchenne muscular dystrophy,Modifier
+DMD,Modifier
+DMD,SpecificDisease
+myopathies,DiseaseClass
+Emery Dreifuss muscular dystrophy,SpecificDisease
+DMD,Modifier 
+hexosaminidase A deficiency,SpecificDisease
+Tay-Sachs disease,SpecificDisease
+TSD,SpecificDisease
+TSD,Modifier
+TSD,Modifier
+TSD,Modifier 
+Phenylketonuria,SpecificDisease
+PKU,SpecificDisease
+deficiency of the enzyme phenylalanine hydroxylase,SpecificDisease
+PKU,SpecificDisease 
+Macular dystrophy,SpecificDisease
+retinal degeneration,Modifier
+retinal degeneration,Modifier
+autosomal dominant retinitis pigmentosa,SpecificDisease
+macular dystrophy,SpecificDisease
+visual loss,SpecificDisease
+central scotoma,SpecificDisease
+atrophy of the retinal pigment epithelium,SpecificDisease
+choriocapillaris of the macula,SpecificDisease
+macular dystrophy,SpecificDisease
+cone dysfunction,DiseaseClass

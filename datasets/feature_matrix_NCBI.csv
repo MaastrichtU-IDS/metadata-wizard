@@ -1,0 +1,1302 @@
+diseaseName,class,ald,apc,cancer,deficiency,disease,disorder,dmd,dystrophy,g6pd,syndrome
+skin tumour,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+cancer,DiseaseClass,0,0,1.12027,0,0,0,0,0,0,0
+colon cancers,DiseaseClass,0,0,1.12027,0,0,0,0,0,0,0
+adenomatous polyposis coli,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+APC,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+colon and some other cancers,CompositeMention,0,0,1.12027,0,0,0,0,0,0,0
+skin tumours,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+pilomatricomas,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+pilomatricomas,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+skin tumour,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+tumour,Modifier,0,0,0,0,0,0,0,0,0,0
+pilomatricomas,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+tumours,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+tumours,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Hereditary hemochromatosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+HH,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+autosomal recessive genetic disorder,DiseaseClass,0,0,0,0,0,1.06798,0,0,0,0
+HH,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+HH,Modifier,0,0,0,0,0,0,0,0,0,0
+HH,Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+HH,Modifier,0,0,0,0,0,0,0,0,0,0
+HH,Modifier,0,0,0,0,0,0,0,0,0,0
+HH,Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+ovarian cancer,Modifier,0,0,1.12027,0,0,0,0,0,0,0
+breast cancer,Modifier,0,0,1.12027,0,0,0,0,0,0,0
+ovarian cancer,Modifier,0,0,1.12027,0,0,0,0,0,0,0
+ovarian cancer,Modifier,0,0,1.12027,0,0,0,0,0,0,0
+ovarian cancer,Modifier,0,0,1.12027,0,0,0,0,0,0,0
+ovarian cancer,Modifier,0,0,1.12027,0,0,0,0,0,0,0
+breast or ovarian cancer,CompositeMention,0,0,1.12027,0,0,0,0,0,0,0
+cancer,DiseaseClass,0,0,1.12027,0,0,0,0,0,0,0
+cancer,Modifier,0,0,1.12027,0,0,0,0,0,0,0
+ovarian cancer,SpecificDisease,0,0,1.12027,0,0,0,0,0,0,0
+ovarian cancer,Modifier,0,0,1.12027,0,0,0,0,0,0,0
+ovarian cancer,Modifier,0,0,1.12027,0,0,0,0,0,0,0
+Familial deficiency of the seventh component of complement,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+bacteremic infections due to Neisseria,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+disseminated gonococcal infection,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+meningococcal meningitis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+arthritis,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+absence of functional C7,Modifier,0,0,0,0,0,0,0,0,0,0
+Complete absence of C7,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+meningococcal meningitis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+arthritis,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+C7 deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+C7 deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+bacteremic neisseria infections,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+oromandibular dystonia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+oromandibular dystonia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+dystonia,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+dystonic,Modifier,0,0,0,0,0,0,0,0,0,0
+dopa-responsive dystonia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+familial Mediterranean fever,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Familial Mediterranean fever,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+FMF,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+recessive disorder,DiseaseClass,0,0,0,0,0,1.06798,0,0,0,0
+serositis,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+synovitis,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+FMF,Modifier,0,0,0,0,0,0,0,0,0,0
+FMF,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+FMF,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Autoimmune lymphoproliferative syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+Autoimmune lymphoproliferative syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+ALPS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+disorder of lymphocyte homeostasis and immunological tolerance,CompositeMention,0,0,0,0,0,1.06798,0,0,0,0
+ALPS,Modifier,0,0,0,0,0,0,0,0,0,0
+ALPS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+ALPS,Modifier,0,0,0,0,0,0,0,0,0,0
+ALPS,Modifier,0,0,0,0,0,0,0,0,0,0
+ALPS,Modifier,0,0,0,0,0,0,0,0,0,0
+ALPS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+X-linked adrenoleukodystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+X-linked adrenoleukodystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+inherited disease,DiseaseClass,0,0,0,0,1.25582,0,0,0,0,0
+neurologic dysfunction,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+adrenal insufficiency,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+childhood cerebral ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+neurologic deterioration,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+cerebral ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+neurologic dysfunction,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+adrenomyeloneuropathy,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Addison disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+childhood cerebral ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+cerebral ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+adrenomyeloneuropathy,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+cerebral ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+ALD,Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Absence of the seventh component of complement,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+chronic meningococcemia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+vasculitis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+fever,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+arthritis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+cutaneous vasculitis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+chronic meningococcemia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+deficiency of the seventh component of complement,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+deficiency of C7,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+Chronic neisserial infection,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+C7 deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+cutaneous vasculitis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+dihydropyrimidine dehydrogenase deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+Dihydropyrimidine dehydrogenase (DPD) deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+autosomal recessive disease,DiseaseClass,0,0,0,0,1.25582,0,0,0,0,0
+DPD deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+deficiency of DPD,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+DPD,Modifier,0,0,0,0,0,0,0,0,0,0
+convulsive disorders,DiseaseClass,0,0,0,0,0,1.06798,0,0,0,0
+motor retardation,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+mental retardation,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+clinical abnormalities,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+DPD deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+glucose-6-phosphate dehydrogenase (G6PD) deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+G6PD deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+glucose-6-phosphate dehydrogenase (G6PD) deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+G6PD deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+G6PD deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+Homozygous hypobetalipoproteinemia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+abetalipoproproteinemia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+homozygous hypobetalipoproteinemia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+HBL,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+HBL,Modifier,0,0,0,0,0,0,0,0,0,0
+HBL,Modifier,0,0,0,0,0,0,0,0,0,0
+HBL,Modifier,0,0,0,0,0,0,0,0,0,0
+HBL,Modifier,0,0,0,0,0,0,0,0,0,0
+abetalipoproteinemia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,Modifier,0,0,0,0,0,0,0,0,0,0
+Hereditary hemochromatosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,Modifier,0,0,0,0,0,0,0,0,0,0
+excess iron deposits,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+hepatic fibrosis,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+excessive alcohol consumption,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+cirrhosis,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+microvesicular steatosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+hereditary hemochromatosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+hepatomegaly,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+skin pigmentation,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+arthritis,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Pelizaeus-Merzbacher disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+Pelizaeus-Merzbacher disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+"rare, sex-linked recessive, dysmyelinating disease of the central nervous system",DiseaseClass,0,0,0,0,1.25582,0,0,0,0,0
+Pelizaeus-Merzbacher disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+Pelizaeus-Merzbacher disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+Pelizaeus-Merzbacher disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+diastrophic dysplasia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+chondrodysplasias,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+diastrophic dysplasia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+platyspondyly,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+metatropic dysplasia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Pelizaeus-Merzbacher disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+X-linked Pelizaeus-Merzbacher disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+PMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+PMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Gardner syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+Gardner syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+GS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+mental retardation,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+craniofacial abnormalities,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+adenomatous polyposis coli,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+GS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+familial polyposis coli,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+FPC,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Type I human complement C2 deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+deficiency of complement protein C2,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+Type I C2 deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+C2-deficient,Modifier,0,0,0,0,0,0,0,0,0,0
+type I C2 deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+type I C2-deficient,Modifier,0,0,0,0,0,0,0,0,0,0
+type II C2-deficient,Modifier,0,0,0,0,0,0,0,0,0,0
+type I human complement C2 deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+C2-deficient,Modifier,0,0,0,0,0,0,0,0,0,0
+type II C2 deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+genetic defect,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+FMR1 deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+Fragile X syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+mental retardation,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+macroorchidism,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+fragile X syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+fragile X,Modifier,0,0,0,0,0,0,0,0,0,0
+anxiety,Modifier,0,0,0,0,0,0,0,0,0,0
+fragile X syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+Fabry disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+Fabry disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+FD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+angiokeratoma corporis diffusum,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+X-linked inborn error of glycosphingolipid metabolism,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+angiokeratoma,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+severe acroparesthesia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+renal failure,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+vasculopathy of the heart and brain,CompositeMention,0,0,0,0,0,0,0,0,0,0
+alpha-galactosidase deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+alpha-Gal A deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+FD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+bipolar disorder,SpecificDisease,0,0,0,0,0,1.06798,0,0,0,0
+bipolar affective disorder,SpecificDisease,0,0,0,0,0,1.06798,0,0,0,0
+BPAD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+BPAD,Modifier,0,0,0,0,0,0,0,0,0,0
+BPAD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+breast cancer,SpecificDisease,0,0,1.12027,0,0,0,0,0,0,0
+breast and ovarian cancer,CompositeMention,0,0,1.12027,0,0,0,0,0,0,0
+breast cancer,SpecificDisease,0,0,1.12027,0,0,0,0,0,0,0
+breast cancer,SpecificDisease,0,0,1.12027,0,0,0,0,0,0,0
+breast cancer,SpecificDisease,0,0,1.12027,0,0,0,0,0,0,0
+breast cancer,SpecificDisease,0,0,1.12027,0,0,0,0,0,0,0
+breast or ovarian cancer,CompositeMention,0,0,1.12027,0,0,0,0,0,0,0
+breast cancer,SpecificDisease,0,0,1.12027,0,0,0,0,0,0,0
+breast or ovarian cancer,CompositeMention,0,0,1.12027,0,0,0,0,0,0,0
+CHM,Modifier,0,0,0,0,0,0,0,0,0,0
+choroideremia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Choroideremia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+CHM,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+X-linked progressive degeneration of the choroid and retina,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+CHM,Modifier,0,0,0,0,0,0,0,0,0,0
+CHM,Modifier,0,0,0,0,0,0,0,0,0,0
+CHM,Modifier,0,0,0,0,0,0,0,0,0,0
+CHM,Modifier,0,0,0,0,0,0,0,0,0,0
+CHM,Modifier,0,0,0,0,0,0,0,0,0,0
+X-linked adrenoleukodystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+ALD,Modifier,0,0,0,0,0,0,0,0,0,0
+adrenoleukodystrophy,Modifier,0,0,0,0,0,0,0,1.15924,0,0
+ALD,Modifier,0,0,0,0,0,0,0,0,0,0
+adolescent ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+ALD,Modifier,0,0,0,0,0,0,0,0,0,0
+cerebral ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+adrenomyeloneuropathy,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Addison only,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+ALD,Modifier,0,0,0,0,0,0,0,0,0,0
+Duchenne muscular dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+DMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+DMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+muscular injury,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+muscular dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+DMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+metabolic disorder,DiseaseClass,0,0,0,0,0,1.06798,0,0,0,0
+normotriglyceridemic abetalipoproteinemia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+normotriglyceridemic abetalipoproteinemia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+homozygous hypobetalipoproteinemia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+von Willebrand disease type B,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+von Willebrand,Modifier,0,0,0,0,0,0,0,0,0,0
+von Willebrand,Modifier,0,0,0,0,0,0,0,0,0,0
+von Willebrand disease type B,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+von Willebrand disease type B,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+von Willebrand disease type B,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+breast-ovarian cancer,Modifier,0,0,1.12027,0,0,0,0,0,0,0
+breast-ovarian cancer,Modifier,0,0,1.12027,0,0,0,0,0,0,0
+breast and ovarian cancer,Modifier,0,0,1.12027,0,0,0,0,0,0,0
+male breast cancer,SpecificDisease,0,0,1.12027,0,0,0,0,0,0,0
+breast-ovarian syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+autosomal recessive disease glucose/galactose malabsorption,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+genetic diseases,DiseaseClass,0,0,0,0,1.25582,0,0,0,0,0
+Tay-Sachs,Modifier,0,0,0,0,0,0,0,0,0,0
+Deficiency of beta-hexosaminidase A,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Tay-Sachs disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+deficient in Hex A,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Tay-Sachs disease,Modifier,0,0,0,0,1.25582,0,0,0,0,0
+Tay-Sachs disease,Modifier,0,0,0,0,1.25582,0,0,0,0,0
+Tay-Sachs disease,Modifier,0,0,0,0,1.25582,0,0,0,0,0
+Tay-Sachs disease,Modifier,0,0,0,0,1.25582,0,0,0,0,0
+Tay-Sachs disease,Modifier,0,0,0,0,1.25582,0,0,0,0,0
+Tay-Sachs disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+TSD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+TSD,Modifier,0,0,0,0,0,0,0,0,0,0
+TSD,Modifier,0,0,0,0,0,0,0,0,0,0
+TSD,Modifier,0,0,0,0,0,0,0,0,0,0
+Canavan disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+Canavan disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+spongy degeneration of the brain,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+leukodystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+deficiency of aspartoacylase,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+Canavan disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+Machado-Joseph disease,Modifier,0,0,0,0,1.25582,0,0,0,0,0
+trinucleotide repeat disorders,DiseaseClass,0,0,0,0,0,1.06798,0,0,0,0
+Machado-Joseph disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+MJD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+MJD,Modifier,0,0,0,0,0,0,0,0,0,0
+MJD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+Duchenne muscular dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+DMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+alkaptonuria,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+AKU,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Alkaptonuria,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+AKU,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+autosomal recessive disorder,DiseaseClass,0,0,0,0,0,1.06798,0,0,0,0
+Ochronosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+ochronotic arthropathy,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+alkaptonuria,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+alkaptonuria,Modifier,0,0,0,0,0,0,0,0,0,0
+C9 deficiency,Modifier,0,0,0,1.35411,0,0,0,0,0,0
+Deficiency of the ninth component of human complement,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+complement deficiency,DiseaseClass,0,0,0,1.35411,0,0,0,0,0,0
+C9 deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+C9 deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+C9 deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+Lesch-Nyhan,Modifier,0,0,0,0,0,0,0,0,0,0
+Lesch-Nyhan syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+hypoxanthine phosphoribosyltransferase [HPRT] deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+X-linked Emery-Dreifuss muscular dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+Emery-Dreifuss muscular dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+EDMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+X-linked recessive muscular dystrophy,DiseaseClass,0,0,0,0,0,0,0,1.15924,0,0
+"contractures of the elbows, Achilles tendons and spine",CompositeMention,0,0,0,0,0,0,0,0,0,0
+muscle wasting,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+weakness,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+cardiomyopathy,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+cardiac conduction defects,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+EDMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+EDMD,Modifier,0,0,0,0,0,0,0,0,0,0
+EDMD,Modifier,0,0,0,0,0,0,0,0,0,0
+elbow contractures,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+ankle contractures,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+upper limb weakness,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+lower limb weakness,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+cardiac involvement,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+EDMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+sporadic breast cancer,Modifier,0,0,1.12027,0,0,0,0,0,0,0
+familial breast and ovarian cancer,Modifier,0,0,1.12027,0,0,0,0,0,0,0
+non-hereditary (sporadic) breast cancer,SpecificDisease,0,0,1.12027,0,0,0,0,0,0,0
+carcinoma in situ,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+invasive cancer,DiseaseClass,0,0,1.12027,0,0,0,0,0,0,0
+breast cancer,SpecificDisease,0,0,1.12027,0,0,0,0,0,0,0
+Pelizaeus-Merzbacher disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+Pelizaeus-Merzbacher disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+PMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+PMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+PMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+genetic disorders,DiseaseClass,0,0,0,0,0,1.06798,0,0,0,0
+myotonic dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+myotonic dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+DM,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+GM1-gangliosidosis,Modifier,0,0,0,0,0,0,0,0,0,0
+cardiac involvement,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+GM1-gangliosidosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+lysosomal storage disorder,DiseaseClass,0,0,0,0,0,1.06798,0,0,0,0
+deficiency of acid beta-galactosidase,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+cardiac involvement,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+GM1-gangliosidosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+cardiac involvement,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+cardiac abnormalities,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+genetic lesions,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+cardiomyopathy,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+familial Mediterranean fever,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+familial Mediterranean fever,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+FMF,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+FMF,Modifier,0,0,0,0,0,0,0,0,0,0
+FMF,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+FMF,Modifier,0,0,0,0,0,0,0,0,0,0
+deficient in Six5,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+cataracts,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+myotonic dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+myotonic dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+dominantly inherited disease,DiseaseClass,0,0,0,0,1.25582,0,0,0,0,0
+muscle dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+myotonia,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+cataracts,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+cardiac conduction defects,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+myopathy,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+cardiac conduction abnormalities,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+myotonic dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+myotonia,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+cataracts,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+SIX5 deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+myotonic dystrophy,Modifier,0,0,0,0,0,0,0,1.15924,0,0
+abnormalities of skeletal muscle function,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+lenticular opacities,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+SIX5 deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+cataract,Modifier,0,0,0,0,0,0,0,0,0,0
+myotonic dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+myotonic dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+multigenic disorder,DiseaseClass,0,0,0,0,0,1.06798,0,0,0,0
+familial adenomatous polyposis,Modifier,0,0,0,0,0,0,0,0,0,0
+adenomatous polyposis coli,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+familial adenomatous polyposis,Modifier,0,0,0,0,0,0,0,0,0,0
+FAP,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+FAP,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+FAP,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+FAP,Modifier,0,0,0,0,0,0,0,0,0,0
+deficiency of C5,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+discoid lupus erythematosus,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+discoid lupus erythematosus,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Hypocomplementemia,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+deficiency of C5,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+discoid lupus erythematosus,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+C5 deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+Wiskott-Aldrich syndrome,Modifier,0,0,0,0,0,0,0,0,0,1.17306
+WAS,Modifier,0,0,0,0,0,0,0,0,0,0
+WAS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+thrombocytopenic,Modifier,0,0,0,0,0,0,0,0,0,0
+Wiskott-Aldrich syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+WAS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+WAS,Modifier,0,0,0,0,0,0,0,0,0,0
+WAS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+WAS,Modifier,0,0,0,0,0,0,0,0,0,0
+thrombocytopenia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+WAS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+WAS,Modifier,0,0,0,0,0,0,0,0,0,0
+tumour,Modifier,0,0,0,0,0,0,0,0,0,0
+inherited breast and ovarian cancers,CompositeMention,0,0,1.12027,0,0,0,0,0,0,0
+breast cancer,SpecificDisease,0,0,1.12027,0,0,0,0,0,0,0
+Spinocerebellar ataxia type-3,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Machado-Joseph disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+SCA3,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+MJD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+CAG/polyglutamine repeat disease,DiseaseClass,0,0,0,0,1.25582,0,0,0,0,0
+polyglutamine disease,DiseaseClass,0,0,0,0,1.25582,0,0,0,0,0
+neuronal dysfunction,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+SCA3,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+MJD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+SCA3,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+MJD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+urogenital abnormalities,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+Denys-Drash syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+Wilms tumor,Modifier,0,0,0,0,0,0,0,0,0,0
+WT1 dysfunction,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+neoplastic,Modifier,0,0,0,0,0,0,0,0,0,0
+Wilms tumor,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+mesothelioma,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+leukemias,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+breast cancer,SpecificDisease,0,0,1.12027,0,0,0,0,0,0,0
+nonneoplastic,Modifier,0,0,0,0,0,0,0,0,0,0
+glomerulosclerosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Denys-Drash syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+DDS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+DDS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+nephropathy,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+mesangial sclerosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+pseudohermaphroditism,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Wilms tumor,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+WT,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+DDS,Modifier,0,0,0,0,0,0,0,0,0,0
+mesangial sclerosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+DDS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Male genital defects,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+Wilms tumor,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Wt1 dysfunction,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Wilms tumorigenesis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+WT,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+X-linked Emery-Dreifuss muscular dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+contractures of the Achilles tendons,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+contractures of the elbows,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+cardiac abnormality,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+X-linked Emery-Dreifuss muscular dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+EDMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+EDMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+sudden cardiac death,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Adrenoleukodystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+adrenoleukodystrophy,Modifier,0,0,0,0,0,0,0,1.15924,0,0
+ALD,Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,Modifier,0,0,0,0,0,0,0,0,0,0
+Glucose-6-phosphate dehydrogenase deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+Glucose-6-phosphate dehydrogenase (G6PD; EC 1. 1. 1. 49) -deficient,Modifier,0,0,0,0,0,0,0,0,0,0
+malaria,Modifier,0,0,0,0,0,0,0,0,0,0
+G6PD deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+G6PD deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+thalassemia,Modifier,0,0,0,0,0,0,0,0,0,0
+G6PD deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+malarious,Modifier,0,0,0,0,0,0,0,0,0,0
+malaria,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+fatal hemolysis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+C3 deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+glomerulonephritis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+deficiency of the third component of complement,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+bacterial infections,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+pneumonia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+mesangiopathic glomerulonephritis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+C3 deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+immune-complex disease,DiseaseClass,0,0,0,0,1.25582,0,0,0,0,0
+pyogenic infections,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+C3 deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+Lesch-Nyhan syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+HPRT enzyme deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+Lesch-Nyhan syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+tumor,Modifier,0,0,0,0,0,0,0,0,0,0
+familial breast and ovarian cancers,CompositeMention,0,0,1.12027,0,0,0,0,0,0,0
+breast cancer,Modifier,0,0,1.12027,0,0,0,0,0,0,0
+Duchenne muscular dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+Duchenne muscular dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+DMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Myotonic dystrophy,Modifier,0,0,0,0,0,0,0,1.15924,0,0
+myotonic dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+DM,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+myotonic dystrophy,Modifier,0,0,0,0,0,0,0,1.15924,0,0
+DM,Modifier,0,0,0,0,0,0,0,0,0,0
+DM,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+DM,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+enzyme deficiency,DiseaseClass,0,0,0,1.35411,0,0,0,0,0,0
+haemolysis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+G6PD deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+breast cancer,Modifier,0,0,1.12027,0,0,0,0,0,0,0
+autosomal recessive disorder,DiseaseClass,0,0,0,0,0,1.06798,0,0,0,0
+ataxia-telangiectasia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+A-T,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+breast cancer,SpecificDisease,0,0,1.12027,0,0,0,0,0,0,0
+breast cancer,SpecificDisease,0,0,1.12027,0,0,0,0,0,0,0
+sporadic breast cancer,SpecificDisease,0,0,1.12027,0,0,0,0,0,0,0
+breast cancer,SpecificDisease,0,0,1.12027,0,0,0,0,0,0,0
+Autoimmune lymphoproliferative syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+ALPS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Autoimmune lymphoproliferative syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+ALPS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+ALPS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+ALPS,Modifier,0,0,0,0,0,0,0,0,0,0
+ALPS,Modifier,0,0,0,0,0,0,0,0,0,0
+galactosemia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+galactosemia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+classic galactosemia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+galactosemia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+galactosemia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+galactosemia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+galactosemia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+myotonic dystrophy,Modifier,0,0,0,0,0,0,0,1.15924,0,0
+Myotonic dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+DM,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+inherited neuromuscular disease,DiseaseClass,0,0,0,0,1.25582,0,0,0,0,0
+genetic defect,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+myotonic dystrophy,Modifier,0,0,0,0,0,0,0,1.15924,0,0
+DM,Modifier,0,0,0,0,0,0,0,0,0,0
+van der Woude syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+cleft palate,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+van der Woude syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+VWS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+pits and/or sinuses of the lower lip,CompositeMention,0,0,0,0,0,0,0,0,0,0
+cleft lip/palate,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+CL/P,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+cleft palate,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+CP,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+bifid uvula,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+hypodontia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+H,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+VWS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+CL/P,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+CP,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+CP,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+VWS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+clefts,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+VWS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+CP,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+VWS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+VWS,Modifier,0,0,0,0,0,0,0,0,0,0
+CP,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+VWS,Modifier,0,0,0,0,0,0,0,0,0,0
+enzyme deficiency,DiseaseClass,0,0,0,1.35411,0,0,0,0,0,0
+hemolytic anemia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Glucose-6-phosphate dehydrogenase (G6PD; EC 1. 1. 1. 49) deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+genetic abnormality,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+enzyme deficiency,DiseaseClass,0,0,0,1.35411,0,0,0,0,0,0
+favism,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+neonatal jaundice,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+hemolytic anemia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+G6PD deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+CETP deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+CETP deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+hypercholesterolemia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+CETP deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+CETP deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+premature atherosclerosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+CETP deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+CETP deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+deficiency of the seventh component of complement,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+meningococcal infection,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Terminal complement component deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+meningococcal infection,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+meningococcal infection,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+terminal complement deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+completely deficient in the seventh component of complement,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+C7 deficiency,Modifier,0,0,0,1.35411,0,0,0,0,0,0
+C7 deficient,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+meningococcal infection,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+meningococcal,Modifier,0,0,0,0,0,0,0,0,0,0
+complement deficient,Modifier,0,0,0,0,0,0,0,0,0,0
+muscular dystrophy,DiseaseClass,0,0,0,0,0,0,0,1.15924,0,0
+Duchenne or Becker muscular dystrophy,CompositeMention,0,0,0,0,0,0,0,1.15924,0,0
+DMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+BMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+BMD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+retinoblastoma,Modifier,0,0,0,0,0,0,0,0,0,0
+hereditary retinoblastoma,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+retinoblastoma,Modifier,0,0,0,0,0,0,0,0,0,0
+hereditary retinoblastoma,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+retinoblastoma,Modifier,0,0,0,0,0,0,0,0,0,0
+PDS,Modifier,0,0,0,0,0,0,0,0,0,0
+Pendred syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+non-syndromic hearing loss,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+DFNB4,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+PDS,Modifier,0,0,0,0,0,0,0,0,0,0
+Pendred syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+autosomal recessive non-syndromic hearing loss,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+DFNB4,Modifier,0,0,0,0,0,0,0,0,0,0
+non-syndromic hearing loss,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+PDS,Modifier,0,0,0,0,0,0,0,0,0,0
+PDS,Modifier,0,0,0,0,0,0,0,0,0,0
+Pendred syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+PDS,Modifier,0,0,0,0,0,0,0,0,0,0
+non-syndromic hearing loss,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Pendred syndrome,Modifier,0,0,0,0,0,0,0,0,0,1.17306
+PDS,Modifier,0,0,0,0,0,0,0,0,0,0
+non-syndromic hearing loss,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Pendred syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+DFNB4,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+goiter,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+DFNB4,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+metachromatic leukodystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+metachromatic leukodystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+MLD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+MLD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+MLD,Modifier,0,0,0,0,0,0,0,0,0,0
+MLD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Classical galactosemia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Classical galactosemia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+galactosemia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+X-linked retinoschisis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+X-linked retinoschisis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+XLRS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+vitreoretinal dystrophy,DiseaseClass,0,0,0,0,0,0,0,1.15924,0,0
+visual loss,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+XLRS,Modifier,0,0,0,0,0,0,0,0,0,0
+XLRS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+genetic abnormalities,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+XLRS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+XLRS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+hypomyelination,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+glial cell death,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+genetic disorders,DiseaseClass,0,0,0,0,0,1.06798,0,0,0,0
+Pelizaeus-Merzbacher disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+degeneration and premature cell death of oligodendrocytes,CompositeMention,0,0,0,0,0,0,0,0,0,0
+hypomyelination,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+myelin-deficient,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Hypomyelination,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+oligodendrocyte degeneration,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Pelizaeus-Merzbacher disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+alkaptonuria,Modifier,0,0,0,0,0,0,0,0,0,0
+Alkaptonuria,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+AKU,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+inborn error of metabolism,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+AKU,Modifier,0,0,0,0,0,0,0,0,0,0
+AKU,Modifier,0,0,0,0,0,0,0,0,0,0
+AKU,Modifier,0,0,0,0,0,0,0,0,0,0
+AKU,Modifier,0,0,0,0,0,0,0,0,0,0
+X-linked adrenoleukodystrophy,Modifier,0,0,0,0,0,0,0,1.15924,0,0
+Adrenoleukodystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+X-linked disease,DiseaseClass,0,0,0,0,1.25582,0,0,0,0,0
+cerebral ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+adrenomyeloneuropathy,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+AMN,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Central nervous system demyelination,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+AMN,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Adrenal insufficiency,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+Addisons disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+ALD,Modifier,0,0,0,0,0,0,0,0,0,0
+Brugada syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+congenital long-QT syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+LQT3,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+idiopathic ventricular fibrillation,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+IVF,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+IVF,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+LQT3,Modifier,0,0,0,0,0,0,0,0,0,0
+IVF,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Autosomal recessive familial neurohypophyseal diabetes insipidus,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Familial neurohypophyseal diabetes insipidus,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+autosomal dominant disorder,DiseaseClass,0,0,0,0,0,1.06798,0,0,0,0
+arginine vasopressin (AVP) deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+neuronal damage,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+neurohypophyseal diabetes insipidus,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+deficiency of active AVP,DiseaseClass,0,0,0,1.35411,0,0,0,0,0,0
+aniridia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+aniridia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+aniridia,Modifier,0,0,0,0,0,0,0,0,0,0
+aniridia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+aniridia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Knobloch syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+midline scalp defect of the frontal region,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+Knobloch syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+vitreoretinal degeneration,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+high myopia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+cataract,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+telecanthus,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+hypertelorism,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+high-arched palate,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+defect of the anterior midline scalp,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+midline scalp defects,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+Pendred syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+PDS,Modifier,0,0,0,0,0,0,0,0,0,0
+Pendred syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+congenital sensorineural hearing loss,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+thyroid goiter,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+autosomal recessive disorder,DiseaseClass,0,0,0,0,0,1.06798,0,0,0,0
+PDS,Modifier,0,0,0,0,0,0,0,0,0,0
+PDS,Modifier,0,0,0,0,0,0,0,0,0,0
+congenital deafness,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+widened vestibular aqueduct,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+goiter,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Pendred syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+PDS,Modifier,0,0,0,0,0,0,0,0,0,0
+congenital hearing loss,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+inner ear morphological anomaly,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+thyroid goiter,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+familial adenomatous polyposis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+tumor,Modifier,0,0,0,0,0,0,0,0,0,0
+tumors,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+FAP,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+familial adenomatous polyposis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+sporadic colorectal cancers,SpecificDisease,0,0,1.12027,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+attenuated polyposis,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+FAP,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+colorectal adenomas,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+FAP,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+FAP desmoids,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+tumor,Modifier,0,0,0,0,0,0,0,0,0,0
+tumors,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+tumors,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+VLCAD deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+VLCAD deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+cardiac disease,DiseaseClass,0,0,0,0,1.25582,0,0,0,0,0
+hypertrophic cardiomyopathy,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+cardiac disease,DiseaseClass,0,0,0,0,1.25582,0,0,0,0,0
+Lesch-Nyhan,Modifier,0,0,0,0,0,0,0,0,0,0
+Lesch-Nyhan syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+complete deficiency of hypoxanthine guanine phosphoribosyltransferase,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+Lesch-Nyhan syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+HPRT deficient,Modifier,0,0,0,0,0,0,0,0,0,0
+hyperphenylalaninemia,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+PKU,Modifier,0,0,0,0,0,0,0,0,0,0
+classical phenylketonuria,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+HFE deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+hemochromatosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+HFE-deficient,Modifier,0,0,0,0,0,0,0,0,0,0
+G6PD deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+G6PD deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+G6PD deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+malaria,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+G6PD deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+Wiskott-Aldrich syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+Wiskott-Aldrich syndrome,Modifier,0,0,0,0,0,0,0,0,0,1.17306
+Wiskott-Aldrich syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+WAS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+WAS,Modifier,0,0,0,0,0,0,0,0,0,0
+WAS,Modifier,0,0,0,0,0,0,0,0,0,0
+WAS,Modifier,0,0,0,0,0,0,0,0,0,0
+WAS,Modifier,0,0,0,0,0,0,0,0,0,0
+WAS,Modifier,0,0,0,0,0,0,0,0,0,0
+WAS,Modifier,0,0,0,0,0,0,0,0,0,0
+WAS,Modifier,0,0,0,0,0,0,0,0,0,0
+adrenoleukodystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+adrenomyeloneuropathy,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+adrenoleukodystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+adrenomyeloneuropathy,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+AMN,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+AMN,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+AMN,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+AMN,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+AMN,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+ALD,Modifier,0,0,0,0,0,0,0,0,0,0
+AMN,Modifier,0,0,0,0,0,0,0,0,0,0
+Tay-Sachs disease,Modifier,0,0,0,0,1.25582,0,0,0,0,0
+Tay-Sachs disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+TSD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+TSD,Modifier,0,0,0,0,0,0,0,0,0,0
+TSD,Modifier,0,0,0,0,0,0,0,0,0,0
+TSD,Modifier,0,0,0,0,0,0,0,0,0,0
+Huntington disease,Modifier,0,0,0,0,1.25582,0,0,0,0,0
+Huntington disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+HD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+autosomal dominant neurodegenerative disorder,DiseaseClass,0,0,0,0,0,1.06798,0,0,0,0
+myotonic dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+muscular dystrophy,DiseaseClass,0,0,0,0,0,0,0,1.15924,0,0
+myotonic dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+DM,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+DM,Modifier,0,0,0,0,0,0,0,0,0,0
+DM,Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Li-Fraumeni syndrome,Modifier,0,0,0,0,0,0,0,0,0,1.17306
+Li-Fraumeni syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+autosomal dominant disorder,DiseaseClass,0,0,0,0,0,1.06798,0,0,0,0
+cancer,DiseaseClass,0,0,1.12027,0,0,0,0,0,0,0
+cancers,DiseaseClass,0,0,1.12027,0,0,0,0,0,0,0
+Li-Fraumeni syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+cancer,DiseaseClass,0,0,1.12027,0,0,0,0,0,0,0
+Li-Fraumeni syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+tumor,Modifier,0,0,0,0,0,0,0,0,0,0
+seminoma,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+medulloblastoma,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+seminoma,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+tumor,Modifier,0,0,0,0,0,0,0,0,0,0
+Li-Fraumeni syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+seminoma,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+medulloblastoma,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+tumorogenesis,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+tumor,Modifier,0,0,0,0,0,0,0,0,0,0
+phenylketonuria,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Phenylketonuria,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+PKU,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+autosomal recessive human genetic disorder,DiseaseClass,0,0,0,0,0,1.06798,0,0,0,0
+deficiency of hepatic phenylalanine hydroxylase,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+PKU,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+inborn error of amino-acid metabolism,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+PKU,Modifier,0,0,0,0,0,0,0,0,0,0
+PKU,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+PKU,Modifier,0,0,0,0,0,0,0,0,0,0
+molecular lesion,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+Duchenne muscular dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+DMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+DMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+DMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+DMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+DMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+DMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+Familial adenomatous polyposis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+FAP,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+colorectal cancer,SpecificDisease,0,0,1.12027,0,0,0,0,0,0,0
+adenomatous polyposis coli,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+APC,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+FAP,Modifier,0,0,0,0,0,0,0,0,0,0
+familial adenomatous polyposis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+FAP,Modifier,0,0,0,0,0,0,0,0,0,0
+FAP,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Duchenne muscular dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+Duchenne muscular dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+DMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+glucose-6-phosphate dehydrogenase (G6PD) deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+glucose-6-phosphate dehydrogenase (G6PD) -deficient,Modifier,0,0,0,0,0,0,0,0,0,0
+G6PD-deficient,Modifier,0,0,0,0,0,0,0,0,0,0
+G6PD-deficient,Modifier,0,0,0,0,0,0,0,0,0,0
+G6PD-deficient,Modifier,0,0,0,0,0,0,0,0,0,0
+G6PD deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+Norrie disease,Modifier,0,0,0,0,1.25582,0,0,0,0,0
+Norrie disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+pseudoglioma,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+NDP,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+X-linked neurodevelopmental disorder,DiseaseClass,0,0,0,0,0,1.06798,0,0,0,0
+NDP,Modifier,0,0,0,0,0,0,0,0,0,0
+Norrie,Modifier,0,0,0,0,0,0,0,0,0,0
+NDP,Modifier,0,0,0,0,0,0,0,0,0,0
+NDP,Modifier,0,0,0,0,0,0,0,0,0,0
+Wolman disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+Wolman disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+Wolman disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+Wolman disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+sporadic ovarian tumours,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+autosomal dominant syndrome,DiseaseClass,0,0,0,0,0,0,0,0,0,1.17306
+breast and ovarian cancer,CompositeMention,0,0,1.12027,0,0,0,0,0,0,0
+tumours,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+tumour,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+ovarian cancers,SpecificDisease,0,0,1.12027,0,0,0,0,0,0,0
+tumours,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+tumour,Modifier,0,0,0,0,0,0,0,0,0,0
+ovarian cancers,SpecificDisease,0,0,1.12027,0,0,0,0,0,0,0
+Duchenne muscular dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+muscular dystrophy,DiseaseClass,0,0,0,0,0,0,0,1.15924,0,0
+Duchenne muscular dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+DMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+limb-girdle muscular dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+myopathy,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+uniparental disomy,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+Kaposi sarcoma,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+T-cell lymphoma,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Wiskott-Aldrich syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+eczema,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+thrombocytopenia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Wiskott-Aldrich syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+WAS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+lymphadenopathy,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+splenomegaly,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+thrombocytopenia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+WAS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Kaposi sarcoma,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+T-cell large cell lymphoma,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Epstein-Barr virus,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+cytomegalovirus,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+human immunodeficiency virus,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+HIV,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Kaposi sarcoma,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+congenital immunodeficiency syndrome,DiseaseClass,0,0,0,1.35411,0,0,0,0,0,1.17306
+Kaposi sarcoma,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+HIV,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Kaposi sarcoma,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Combined genetic deficiency of C6 and C7,CompositeMention,0,0,0,1.35411,0,0,0,0,0,0
+sub-total deficiency of C6 and C7,CompositeMention,0,0,0,1.35411,0,0,0,0,0,0
+C6 deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+Langer-Giedion syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+Langer-Giedion syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+LGS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+LGS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+LGS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+LGS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+LGS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Friedreich ataxia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Frataxin deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+Friedreich ataxia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+FRDA,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+autosomal recessive cardiodegenerative and neurodegenerative disease,DiseaseClass,0,0,0,0,1.25582,0,0,0,0,0
+mitochondrial iron accumulation,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+hypersensitivity to oxidative stress,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+FRDA,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+G6PD deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+episodic hemolytic anemia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+life-long hemolytic anemia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+G6PD deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+G6PD deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+adenomatous polyposis coli,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+adenomatous polyposis coli,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+APC,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+cancer,Modifier,0,0,1.12027,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+glucose-6-phosphate dehydrogenase deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+G6PD deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+G6PD deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+galactosemia,Modifier,0,0,0,0,0,0,0,0,0,0
+GALT deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+GALT deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+classic galactosemia,Modifier,0,0,0,0,0,0,0,0,0,0
+galactosemia,Modifier,0,0,0,0,0,0,0,0,0,0
+classic galactosemia,Modifier,0,0,0,0,0,0,0,0,0,0
+diastrophic dysplasia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+diastrophic dysplasia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+DTD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+DTD,Modifier,0,0,0,0,0,0,0,0,0,0
+adrenoleukodystrophy protein deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,1.15924,0,0
+X-ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Inherited defects,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+adrenoleukodystrophy,Modifier,0,0,0,0,0,0,0,1.15924,0,0
+peroxisomal disorder,DiseaseClass,0,0,0,0,0,1.06798,0,0,0,0
+X-linked adrenoleukodystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+X-ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+X-ALD,Modifier,0,0,0,0,0,0,0,0,0,0
+X-ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+fragile X syndrome,Modifier,0,0,0,0,0,0,0,0,0,1.17306
+X-linked amelogenesis imperfecta,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+inherited dental abnormality,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+X-linked amelogenesis imperfecta,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+XAI,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+XAI,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+XAI,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+XAI disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+XAI,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,Modifier,0,0,0,0,0,0,0,0,0,0
+HFE defect,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+G6PD deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+malaria,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Glucose-6-phosphate dehydrogenase (G6PD) deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+enzymopathy,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+malaria,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+malaria,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+G6PD deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+malaria,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+X-linked disorder,DiseaseClass,0,0,0,0,0,1.06798,0,0,0,0
+G6PD deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+G6PD A-,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+malaria,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+malaria,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+enzyme deficiency,DiseaseClass,0,0,0,1.35411,0,0,0,0,0,0
+malaria,Modifier,0,0,0,0,0,0,0,0,0,0
+G6PD deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+Prader-Willi syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+chromosome 15 anomaly,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Prader-Willi syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+PWS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+PWS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+PWS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+PWS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+phenylketonuria,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+hyperphenylalaninemias,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+phenylketonuria,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+hyperphenylalaninemia,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+Tay-Sachs disease,Modifier,0,0,0,0,1.25582,0,0,0,0,0
+Tay-Sachs disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+TSD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+TSD,Modifier,0,0,0,0,0,0,0,0,0,0
+TSD,Modifier,0,0,0,0,0,0,0,0,0,0
+TSD,Modifier,0,0,0,0,0,0,0,0,0,0
+pyoderma gangrenosum,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+C7 deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+pyoderma gangrenosum,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+PG,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+systemic diseases,DiseaseClass,0,0,0,0,1.25582,0,0,0,0,0
+congenital complement deficiencies,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+PG,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+C7 deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+Deficiencies of C7,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+immunologic abnormalities,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+PG,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+PG,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Emerin deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+Emery-Dreifuss muscular dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+X-linked Emery-Dreifuss muscular dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+EDMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+neuromuscular diseases,DiseaseClass,0,0,0,0,1.25582,0,0,0,0,0
+EDMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+EDMD,Modifier,0,0,0,0,0,0,0,0,0,0
+deficiency of emerin,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+EDMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+melanoma,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+tumor,Modifier,0,0,0,0,0,0,0,0,0,0
+melanoma,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+melanoma,Modifier,0,0,0,0,0,0,0,0,0,0
+melanoma,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+melanomas,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+tumor,Modifier,0,0,0,0,0,0,0,0,0,0
+tumor,Modifier,0,0,0,0,0,0,0,0,0,0
+familial neurohypophyseal diabetes insipidus,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Familial neurohypophyseal diabetes insipidus,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+FNDI,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+deficiency of the hormone arginine vasopressin,DiseaseClass,0,0,0,1.35411,0,0,0,0,0,0
+FNDI,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+FNDI,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Machado-Joseph disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+MJD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+neurodegenerative disorders,DiseaseClass,0,0,0,0,0,1.06798,0,0,0,0
+progressive cerebellar ataxia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+spinocerebellar ataxia type 3,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+SCA3,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+MJD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+degeneration of certain brain areas,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+alveolar rhabdomyosarcoma,Modifier,0,0,0,0,0,0,0,0,0,0
+solid tumors,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+alveolar rhabdomyosarcoma,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+tumor,Modifier,0,0,0,0,0,0,0,0,0,0
+Myotonia levior,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+chloride channel disorder,DiseaseClass,0,0,0,0,0,1.06798,0,0,0,0
+dominant non-dystrophic myotonias,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+Dominant myotonia congenita,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Thomsens disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+dominant myotonias,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+myotonia levior,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+myotonia,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+Thomsens disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+muscle hypertrophy,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+myotonia levior,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Thomsens disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+Thomsens disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+recessive myotonia,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+cholesterol acyltransferase deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+fish-eye disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+Classic (complete) lecithin  cholesterol acyltransferase (LCAT) deficiency,CompositeMention,0,0,0,1.35411,0,0,0,0,0,0
+Fish-eye disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+partial LCAT deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+atherosclerotic cardiovascular disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+LCAT deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+classic LCAT deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+Fish-eye disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+complete or partial LCAT deficiency,CompositeMention,0,0,0,1.35411,0,0,0,0,0,0
+atherosclerosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+classic LCAT deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+Fish-eye disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+atherosclerosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+attenuated APC,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+adenomatous polyps of the colon and rectum,CompositeMention,0,0,0,0,0,0,0,0,0,0
+colorectal cancer,SpecificDisease,0,0,1.12027,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+attenuated adenomatous polyposis coli,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+AAPC,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+AAPC,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+colorectal polyps,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+colorectal cancer,SpecificDisease,0,0,1.12027,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+AAPC,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+attenuated polyposis,Modifier,0,0,0,0,0,0,0,0,0,0
+aspartylglucosaminuria,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+AGU,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Aspartylglucosaminuria,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+AGU,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+AGU,Modifier,0,0,0,0,0,0,0,0,0,0
+AGU,Modifier,0,0,0,0,0,0,0,0,0,0
+X-linked adrenoleukodystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+X-linked adrenoleukodystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+ALD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+abnormalities in the vision blindness genes,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,Modifier,0,0,0,0,0,0,0,0,0,0
+Genetic hemochromatosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+GH,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+GH,Modifier,0,0,0,0,0,0,0,0,0,0
+GH,Modifier,0,0,0,0,0,0,0,0,0,0
+infectious diseases,DiseaseClass,0,0,0,0,1.25582,0,0,0,0,0
+genetic disorders,DiseaseClass,0,0,0,0,0,1.06798,0,0,0,0
+anemia,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+Lesch-Nyhan,Modifier,0,0,0,0,0,0,0,0,0,0
+Lesch-Nyhan syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+Lesch-Nyhan,Modifier,0,0,0,0,0,0,0,0,0,0
+Lesch-Nyhan syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+Familial Mediterranean fever,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Familial Mediterranean fever,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+FMF,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+recessively inherited disorder,DiseaseClass,0,0,0,0,0,1.06798,0,0,0,0
+serosal inflammation,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Renal amyloidosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+FMF,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+FMF,Modifier,0,0,0,0,0,0,0,0,0,0
+FMF,Modifier,0,0,0,0,0,0,0,0,0,0
+FMF,Modifier,0,0,0,0,0,0,0,0,0,0
+renal amyloidosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+arthritis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Huntington disease,Modifier,0,0,0,0,1.25582,0,0,0,0,0
+HD,Modifier,0,0,0,0,0,0,0,0,0,0
+HD,Modifier,0,0,0,0,0,0,0,0,0,0
+HD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+colorectal polyps,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+familial adenomatous polyposis,Modifier,0,0,0,0,0,0,0,0,0,0
+adenomatous polyposis coli,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+familial adenomatous polyposis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+FAP,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+FAP,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+colorectal polyps,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+FAP,Modifier,0,0,0,0,0,0,0,0,0,0
+FAP,Modifier,0,0,0,0,0,0,0,0,0,0
+polyps,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+FAP,Modifier,0,0,0,0,0,0,0,0,0,0
+polyps,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+colorectal polyps,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+FAP,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+Duchenne/Becker muscular dystrophy,CompositeMention,0,0,0,0,0,0,0,1.15924,0,0
+Duchenne and Becker muscular dystrophy,CompositeMention,0,0,0,0,0,0,0,1.15924,0,0
+DMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+BMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+DMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+BMD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+BMD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD defects,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+muscle disease,Modifier,0,0,0,0,1.25582,0,0,0,0,0
+galactosemia,Modifier,0,0,0,0,0,0,0,0,0,0
+galactosemia,Modifier,0,0,0,0,0,0,0,0,0,0
+galactosemia,Modifier,0,0,0,0,0,0,0,0,0,0
+galactosemia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+galactosemia,Modifier,0,0,0,0,0,0,0,0,0,0
+Gaucher disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+Gaucher disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+GD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+lysosomal storage disorder,DiseaseClass,0,0,0,0,0,1.06798,0,0,0,0
+Prader-Willi syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+Prader-Willi syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+PWS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+PWS,Modifier,0,0,0,0,0,0,0,0,0,0
+neurodevelopmentally handicapped,Modifier,0,0,0,0,0,0,0,0,0,0
+PWS,Modifier,0,0,0,0,0,0,0,0,0,0
+PWS,Modifier,0,0,0,0,0,0,0,0,0,0
+PWS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+neurodevelopmentally handicapped,Modifier,0,0,0,0,0,0,0,0,0,0
+hypothalamic abnormalities,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+cerebrotendinous xanthomatosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+genetic disease,DiseaseClass,0,0,0,0,1.25582,0,0,0,0,0
+cerebrotendinous xanthomatosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+CTX,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Abnormalities in the HDL,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+CTX,Modifier,0,0,0,0,0,0,0,0,0,0
+CTX,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+CTX,Modifier,0,0,0,0,0,0,0,0,0,0
+genetic defect,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+CTX,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Papillon-Lefevre syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+Papillon-Lefevre syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+PLS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+autosomal recessive disorder,DiseaseClass,0,0,0,0,0,1.06798,0,0,0,0
+palmoplantar hyperkeratosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+periodontitis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+PLS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+PLS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+PLS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+PLS,Modifier,0,0,0,0,0,0,0,0,0,0
+palmoplantar hyperkeratosis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+periodontitis,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+PLS,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+periodontal disease,Modifier,0,0,0,0,1.25582,0,0,0,0,0
+Lesch-Nyhan syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+deficiency of hypoxanthine-guanine phosphoribosyltransferase,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+Lesch-Nyhan syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+Lesch-Nyhan syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+retinoblastoma,Modifier,0,0,0,0,0,0,0,0,0,0
+retinoblastoma,Modifier,0,0,0,0,0,0,0,0,0,0
+retinoblastoma,Modifier,0,0,0,0,0,0,0,0,0,0
+retinoblastoma,Modifier,0,0,0,0,0,0,0,0,0,0
+Denys-Drash syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+Denys-Drash syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+nephropathy,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+genital abnormalities,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+Wilms tumor,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+renal failure,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Wilms tumor,Modifier,0,0,0,0,0,0,0,0,0,0
+prolidase deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+prolidase deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+autosomal recessive disorder,DiseaseClass,0,0,0,0,0,1.06798,0,0,0,0
+iminodipeptiduria,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+skin ulcers,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+mental retardation,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+prolidase deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+isolated aniridia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+isolated aniridia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+aniridia,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+X-linked Emery-Dreifuss muscular dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+Emery-Dreifuss muscular dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+EMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+X-linked EMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+ankle contractures,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+muscle weakness,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+Duchenne muscular dystrophy,Modifier,0,0,0,0,0,0,0,1.15924,0,0
+Duchenne and the milder Becker muscular dystrophies,CompositeMention,0,0,0,0,0,0,0,0,0,0
+dystrophic syndrome,SpecificDisease,0,0,0,0,0,0,0,0,0,1.17306
+Duchenne/Becker muscular dystrophy,CompositeMention,0,0,0,0,0,0,0,1.15924,0,0
+Duchenne muscular dystrophy,Modifier,0,0,0,0,0,0,0,1.15924,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+myopathies,DiseaseClass,0,0,0,0,0,0,0,0,0,0
+Emery Dreifuss muscular dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+hexosaminidase A deficiency,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+Tay-Sachs disease,SpecificDisease,0,0,0,0,1.25582,0,0,0,0,0
+TSD,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+TSD,Modifier,0,0,0,0,0,0,0,0,0,0
+TSD,Modifier,0,0,0,0,0,0,0,0,0,0
+TSD,Modifier,0,0,0,0,0,0,0,0,0,0
+Phenylketonuria,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+PKU,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+deficiency of the enzyme phenylalanine hydroxylase,SpecificDisease,0,0,0,1.35411,0,0,0,0,0,0
+PKU,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+Macular dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+retinal degeneration,Modifier,0,0,0,0,0,0,0,0,0,0
+retinal degeneration,Modifier,0,0,0,0,0,0,0,0,0,0
+autosomal dominant retinitis pigmentosa,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+macular dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+visual loss,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+central scotoma,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+atrophy of the retinal pigment epithelium,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+choriocapillaris of the macula,SpecificDisease,0,0,0,0,0,0,0,0,0,0
+macular dystrophy,SpecificDisease,0,0,0,0,0,0,0,1.15924,0,0
+cone dysfunction,DiseaseClass,0,0,0,0,0,0,0,0,0,0

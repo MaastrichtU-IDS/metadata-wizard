@@ -1,0 +1,1302 @@
+diseaseName,class,ald,apc,cancer,deficiency,disease,dmd,dystrophy,muscular,ovarian,syndrome
+tumour,Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,Modifier,0,0,0,0,0,0,0,0,0,0
+HH,Modifier,0,0,0,0,0,0,0,0,0,0
+HH,Modifier,0,0,0,0,0,0,0,0,0,0
+HH,Modifier,0,0,0,0,0,0,0,0,0,0
+HH,Modifier,0,0,0,0,0,0,0,0,0,0
+HH,Modifier,0,0,0,0,0,0,0,0,0,0
+ovarian cancer,Modifier,0,0,1.12966,0,0,0,0,0,1.07443,0
+breast cancer,Modifier,0,0,1.12966,0,0,0,0,0,0,0
+ovarian cancer,Modifier,0,0,1.12966,0,0,0,0,0,1.07443,0
+ovarian cancer,Modifier,0,0,1.12966,0,0,0,0,0,1.07443,0
+ovarian cancer,Modifier,0,0,1.12966,0,0,0,0,0,1.07443,0
+ovarian cancer,Modifier,0,0,1.12966,0,0,0,0,0,1.07443,0
+cancer,Modifier,0,0,1.12966,0,0,0,0,0,0,0
+ovarian cancer,Modifier,0,0,1.12966,0,0,0,0,0,1.07443,0
+ovarian cancer,Modifier,0,0,1.12966,0,0,0,0,0,1.07443,0
+absence of functional C7,Modifier,0,0,0,0,0,0,0,0,0,0
+dystonic,Modifier,0,0,0,0,0,0,0,0,0,0
+FMF,Modifier,0,0,0,0,0,0,0,0,0,0
+ALPS,Modifier,0,0,0,0,0,0,0,0,0,0
+ALPS,Modifier,0,0,0,0,0,0,0,0,0,0
+ALPS,Modifier,0,0,0,0,0,0,0,0,0,0
+ALPS,Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,Modifier,0,0,0,0,0,0,0,0,0,0
+DPD,Modifier,0,0,0,0,0,0,0,0,0,0
+HBL,Modifier,0,0,0,0,0,0,0,0,0,0
+HBL,Modifier,0,0,0,0,0,0,0,0,0,0
+HBL,Modifier,0,0,0,0,0,0,0,0,0,0
+HBL,Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,Modifier,0,0,0,0,0,0,0,0,0,0
+C2-deficient,Modifier,0,0,0,0,0,0,0,0,0,0
+type I C2-deficient,Modifier,0,0,0,0,0,0,0,0,0,0
+type II C2-deficient,Modifier,0,0,0,0,0,0,0,0,0,0
+C2-deficient,Modifier,0,0,0,0,0,0,0,0,0,0
+fragile X,Modifier,0,0,0,0,0,0,0,0,0,0
+anxiety,Modifier,0,0,0,0,0,0,0,0,0,0
+BPAD,Modifier,0,0,0,0,0,0,0,0,0,0
+CHM,Modifier,0,0,0,0,0,0,0,0,0,0
+CHM,Modifier,0,0,0,0,0,0,0,0,0,0
+CHM,Modifier,0,0,0,0,0,0,0,0,0,0
+CHM,Modifier,0,0,0,0,0,0,0,0,0,0
+CHM,Modifier,0,0,0,0,0,0,0,0,0,0
+CHM,Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,Modifier,0,0,0,0,0,0,0,0,0,0
+adrenoleukodystrophy,Modifier,0,0,0,0,0,0,1.14098,0,0,0
+ALD,Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,Modifier,0,0,0,0,0,0,0,0,0,0
+von Willebrand,Modifier,0,0,0,0,0,0,0,0,0,0
+von Willebrand,Modifier,0,0,0,0,0,0,0,0,0,0
+breast-ovarian cancer,Modifier,0,0,1.12966,0,0,0,0,0,1.07443,0
+breast-ovarian cancer,Modifier,0,0,1.12966,0,0,0,0,0,1.07443,0
+breast and ovarian cancer,Modifier,0,0,1.12966,0,0,0,0,0,1.07443,0
+Tay-Sachs,Modifier,0,0,0,0,0,0,0,0,0,0
+Tay-Sachs disease,Modifier,0,0,0,0,1.22993,0,0,0,0,0
+Tay-Sachs disease,Modifier,0,0,0,0,1.22993,0,0,0,0,0
+Tay-Sachs disease,Modifier,0,0,0,0,1.22993,0,0,0,0,0
+Tay-Sachs disease,Modifier,0,0,0,0,1.22993,0,0,0,0,0
+Tay-Sachs disease,Modifier,0,0,0,0,1.22993,0,0,0,0,0
+TSD,Modifier,0,0,0,0,0,0,0,0,0,0
+TSD,Modifier,0,0,0,0,0,0,0,0,0,0
+TSD,Modifier,0,0,0,0,0,0,0,0,0,0
+Machado-Joseph disease,Modifier,0,0,0,0,1.22993,0,0,0,0,0
+MJD,Modifier,0,0,0,0,0,0,0,0,0,0
+MJD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+alkaptonuria,Modifier,0,0,0,0,0,0,0,0,0,0
+C9 deficiency,Modifier,0,0,0,1.37377,0,0,0,0,0,0
+Lesch-Nyhan,Modifier,0,0,0,0,0,0,0,0,0,0
+EDMD,Modifier,0,0,0,0,0,0,0,0,0,0
+EDMD,Modifier,0,0,0,0,0,0,0,0,0,0
+sporadic breast cancer,Modifier,0,0,1.12966,0,0,0,0,0,0,0
+familial breast and ovarian cancer,Modifier,0,0,1.12966,0,0,0,0,0,1.07443,0
+GM1-gangliosidosis,Modifier,0,0,0,0,0,0,0,0,0,0
+FMF,Modifier,0,0,0,0,0,0,0,0,0,0
+FMF,Modifier,0,0,0,0,0,0,0,0,0,0
+myotonic dystrophy,Modifier,0,0,0,0,0,0,1.14098,0,0,0
+cataract,Modifier,0,0,0,0,0,0,0,0,0,0
+familial adenomatous polyposis,Modifier,0,0,0,0,0,0,0,0,0,0
+adenomatous polyposis coli,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+familial adenomatous polyposis,Modifier,0,0,0,0,0,0,0,0,0,0
+FAP,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+FAP,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+FAP,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+FAP,Modifier,0,0,0,0,0,0,0,0,0,0
+Wiskott-Aldrich syndrome,Modifier,0,0,0,0,0,0,0,0,0,1.21605
+WAS,Modifier,0,0,0,0,0,0,0,0,0,0
+thrombocytopenic,Modifier,0,0,0,0,0,0,0,0,0,0
+WAS,Modifier,0,0,0,0,0,0,0,0,0,0
+WAS,Modifier,0,0,0,0,0,0,0,0,0,0
+WAS,Modifier,0,0,0,0,0,0,0,0,0,0
+tumour,Modifier,0,0,0,0,0,0,0,0,0,0
+Wilms tumor,Modifier,0,0,0,0,0,0,0,0,0,0
+neoplastic,Modifier,0,0,0,0,0,0,0,0,0,0
+nonneoplastic,Modifier,0,0,0,0,0,0,0,0,0,0
+DDS,Modifier,0,0,0,0,0,0,0,0,0,0
+adrenoleukodystrophy,Modifier,0,0,0,0,0,0,1.14098,0,0,0
+ALD,Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,Modifier,0,0,0,0,0,0,0,0,0,0
+Glucose-6-phosphate dehydrogenase (G6PD; EC 1. 1. 1. 49) -deficient,Modifier,0,0,0,0,0,0,0,0,0,0
+malaria,Modifier,0,0,0,0,0,0,0,0,0,0
+thalassemia,Modifier,0,0,0,0,0,0,0,0,0,0
+malarious,Modifier,0,0,0,0,0,0,0,0,0,0
+tumor,Modifier,0,0,0,0,0,0,0,0,0,0
+breast cancer,Modifier,0,0,1.12966,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+Myotonic dystrophy,Modifier,0,0,0,0,0,0,1.14098,0,0,0
+myotonic dystrophy,Modifier,0,0,0,0,0,0,1.14098,0,0,0
+DM,Modifier,0,0,0,0,0,0,0,0,0,0
+breast cancer,Modifier,0,0,1.12966,0,0,0,0,0,0,0
+ALPS,Modifier,0,0,0,0,0,0,0,0,0,0
+ALPS,Modifier,0,0,0,0,0,0,0,0,0,0
+myotonic dystrophy,Modifier,0,0,0,0,0,0,1.14098,0,0,0
+myotonic dystrophy,Modifier,0,0,0,0,0,0,1.14098,0,0,0
+DM,Modifier,0,0,0,0,0,0,0,0,0,0
+VWS,Modifier,0,0,0,0,0,0,0,0,0,0
+VWS,Modifier,0,0,0,0,0,0,0,0,0,0
+C7 deficiency,Modifier,0,0,0,1.37377,0,0,0,0,0,0
+meningococcal,Modifier,0,0,0,0,0,0,0,0,0,0
+complement deficient,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+BMD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+retinoblastoma,Modifier,0,0,0,0,0,0,0,0,0,0
+retinoblastoma,Modifier,0,0,0,0,0,0,0,0,0,0
+retinoblastoma,Modifier,0,0,0,0,0,0,0,0,0,0
+PDS,Modifier,0,0,0,0,0,0,0,0,0,0
+PDS,Modifier,0,0,0,0,0,0,0,0,0,0
+DFNB4,Modifier,0,0,0,0,0,0,0,0,0,0
+PDS,Modifier,0,0,0,0,0,0,0,0,0,0
+PDS,Modifier,0,0,0,0,0,0,0,0,0,0
+PDS,Modifier,0,0,0,0,0,0,0,0,0,0
+Pendred syndrome,Modifier,0,0,0,0,0,0,0,0,0,1.21605
+PDS,Modifier,0,0,0,0,0,0,0,0,0,0
+MLD,Modifier,0,0,0,0,0,0,0,0,0,0
+XLRS,Modifier,0,0,0,0,0,0,0,0,0,0
+alkaptonuria,Modifier,0,0,0,0,0,0,0,0,0,0
+AKU,Modifier,0,0,0,0,0,0,0,0,0,0
+AKU,Modifier,0,0,0,0,0,0,0,0,0,0
+AKU,Modifier,0,0,0,0,0,0,0,0,0,0
+AKU,Modifier,0,0,0,0,0,0,0,0,0,0
+X-linked adrenoleukodystrophy,Modifier,0,0,0,0,0,0,1.14098,0,0,0
+ALD,Modifier,0,0,0,0,0,0,0,0,0,0
+LQT3,Modifier,0,0,0,0,0,0,0,0,0,0
+aniridia,Modifier,0,0,0,0,0,0,0,0,0,0
+PDS,Modifier,0,0,0,0,0,0,0,0,0,0
+PDS,Modifier,0,0,0,0,0,0,0,0,0,0
+PDS,Modifier,0,0,0,0,0,0,0,0,0,0
+PDS,Modifier,0,0,0,0,0,0,0,0,0,0
+tumor,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+attenuated polyposis,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+FAP,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+FAP,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+tumor,Modifier,0,0,0,0,0,0,0,0,0,0
+Lesch-Nyhan,Modifier,0,0,0,0,0,0,0,0,0,0
+HPRT deficient,Modifier,0,0,0,0,0,0,0,0,0,0
+PKU,Modifier,0,0,0,0,0,0,0,0,0,0
+HFE-deficient,Modifier,0,0,0,0,0,0,0,0,0,0
+Wiskott-Aldrich syndrome,Modifier,0,0,0,0,0,0,0,0,0,1.21605
+WAS,Modifier,0,0,0,0,0,0,0,0,0,0
+WAS,Modifier,0,0,0,0,0,0,0,0,0,0
+WAS,Modifier,0,0,0,0,0,0,0,0,0,0
+WAS,Modifier,0,0,0,0,0,0,0,0,0,0
+WAS,Modifier,0,0,0,0,0,0,0,0,0,0
+WAS,Modifier,0,0,0,0,0,0,0,0,0,0
+WAS,Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,Modifier,0,0,0,0,0,0,0,0,0,0
+AMN,Modifier,0,0,0,0,0,0,0,0,0,0
+Tay-Sachs disease,Modifier,0,0,0,0,1.22993,0,0,0,0,0
+TSD,Modifier,0,0,0,0,0,0,0,0,0,0
+TSD,Modifier,0,0,0,0,0,0,0,0,0,0
+TSD,Modifier,0,0,0,0,0,0,0,0,0,0
+Huntington disease,Modifier,0,0,0,0,1.22993,0,0,0,0,0
+DM,Modifier,0,0,0,0,0,0,0,0,0,0
+DM,Modifier,0,0,0,0,0,0,0,0,0,0
+Li-Fraumeni syndrome,Modifier,0,0,0,0,0,0,0,0,0,1.21605
+tumor,Modifier,0,0,0,0,0,0,0,0,0,0
+tumor,Modifier,0,0,0,0,0,0,0,0,0,0
+tumor,Modifier,0,0,0,0,0,0,0,0,0,0
+PKU,Modifier,0,0,0,0,0,0,0,0,0,0
+PKU,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+FAP,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+FAP,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+glucose-6-phosphate dehydrogenase (G6PD) -deficient,Modifier,0,0,0,0,0,0,0,0,0,0
+G6PD-deficient,Modifier,0,0,0,0,0,0,0,0,0,0
+G6PD-deficient,Modifier,0,0,0,0,0,0,0,0,0,0
+G6PD-deficient,Modifier,0,0,0,0,0,0,0,0,0,0
+Norrie disease,Modifier,0,0,0,0,1.22993,0,0,0,0,0
+NDP,Modifier,0,0,0,0,0,0,0,0,0,0
+Norrie,Modifier,0,0,0,0,0,0,0,0,0,0
+NDP,Modifier,0,0,0,0,0,0,0,0,0,0
+NDP,Modifier,0,0,0,0,0,0,0,0,0,0
+tumour,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+cancer,Modifier,0,0,1.12966,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+galactosemia,Modifier,0,0,0,0,0,0,0,0,0,0
+classic galactosemia,Modifier,0,0,0,0,0,0,0,0,0,0
+galactosemia,Modifier,0,0,0,0,0,0,0,0,0,0
+classic galactosemia,Modifier,0,0,0,0,0,0,0,0,0,0
+DTD,Modifier,0,0,0,0,0,0,0,0,0,0
+adrenoleukodystrophy,Modifier,0,0,0,0,0,0,1.14098,0,0,0
+X-ALD,Modifier,0,0,0,0,0,0,0,0,0,0
+fragile X syndrome,Modifier,0,0,0,0,0,0,0,0,0,1.21605
+hemochromatosis,Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,Modifier,0,0,0,0,0,0,0,0,0,0
+malaria,Modifier,0,0,0,0,0,0,0,0,0,0
+Tay-Sachs disease,Modifier,0,0,0,0,1.22993,0,0,0,0,0
+TSD,Modifier,0,0,0,0,0,0,0,0,0,0
+TSD,Modifier,0,0,0,0,0,0,0,0,0,0
+TSD,Modifier,0,0,0,0,0,0,0,0,0,0
+EDMD,Modifier,0,0,0,0,0,0,0,0,0,0
+tumor,Modifier,0,0,0,0,0,0,0,0,0,0
+melanoma,Modifier,0,0,0,0,0,0,0,0,0,0
+tumor,Modifier,0,0,0,0,0,0,0,0,0,0
+tumor,Modifier,0,0,0,0,0,0,0,0,0,0
+alveolar rhabdomyosarcoma,Modifier,0,0,0,0,0,0,0,0,0,0
+tumor,Modifier,0,0,0,0,0,0,0,0,0,0
+attenuated APC,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+AAPC,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+attenuated polyposis,Modifier,0,0,0,0,0,0,0,0,0,0
+AGU,Modifier,0,0,0,0,0,0,0,0,0,0
+AGU,Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,Modifier,0,0,0,0,0,0,0,0,0,0
+GH,Modifier,0,0,0,0,0,0,0,0,0,0
+GH,Modifier,0,0,0,0,0,0,0,0,0,0
+Lesch-Nyhan,Modifier,0,0,0,0,0,0,0,0,0,0
+Lesch-Nyhan,Modifier,0,0,0,0,0,0,0,0,0,0
+FMF,Modifier,0,0,0,0,0,0,0,0,0,0
+FMF,Modifier,0,0,0,0,0,0,0,0,0,0
+FMF,Modifier,0,0,0,0,0,0,0,0,0,0
+Huntington disease,Modifier,0,0,0,0,1.22993,0,0,0,0,0
+HD,Modifier,0,0,0,0,0,0,0,0,0,0
+HD,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+familial adenomatous polyposis,Modifier,0,0,0,0,0,0,0,0,0,0
+adenomatous polyposis coli,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+FAP,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+FAP,Modifier,0,0,0,0,0,0,0,0,0,0
+FAP,Modifier,0,0,0,0,0,0,0,0,0,0
+FAP,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+FAP,Modifier,0,0,0,0,0,0,0,0,0,0
+APC,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+BMD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+BMD,Modifier,0,0,0,0,0,0,0,0,0,0
+muscle disease,Modifier,0,0,0,0,1.22993,0,0,0,0,0
+galactosemia,Modifier,0,0,0,0,0,0,0,0,0,0
+galactosemia,Modifier,0,0,0,0,0,0,0,0,0,0
+galactosemia,Modifier,0,0,0,0,0,0,0,0,0,0
+galactosemia,Modifier,0,0,0,0,0,0,0,0,0,0
+PWS,Modifier,0,0,0,0,0,0,0,0,0,0
+neurodevelopmentally handicapped,Modifier,0,0,0,0,0,0,0,0,0,0
+PWS,Modifier,0,0,0,0,0,0,0,0,0,0
+PWS,Modifier,0,0,0,0,0,0,0,0,0,0
+neurodevelopmentally handicapped,Modifier,0,0,0,0,0,0,0,0,0,0
+CTX,Modifier,0,0,0,0,0,0,0,0,0,0
+CTX,Modifier,0,0,0,0,0,0,0,0,0,0
+PLS,Modifier,0,0,0,0,0,0,0,0,0,0
+periodontal disease,Modifier,0,0,0,0,1.22993,0,0,0,0,0
+retinoblastoma,Modifier,0,0,0,0,0,0,0,0,0,0
+retinoblastoma,Modifier,0,0,0,0,0,0,0,0,0,0
+retinoblastoma,Modifier,0,0,0,0,0,0,0,0,0,0
+retinoblastoma,Modifier,0,0,0,0,0,0,0,0,0,0
+Wilms tumor,Modifier,0,0,0,0,0,0,0,0,0,0
+Duchenne muscular dystrophy,Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+Duchenne muscular dystrophy,Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,Modifier,0,0,0,0,0,0,0,0,0,0
+TSD,Modifier,0,0,0,0,0,0,0,0,0,0
+TSD,Modifier,0,0,0,0,0,0,0,0,0,0
+TSD,Modifier,0,0,0,0,0,0,0,0,0,0
+retinal degeneration,Modifier,0,0,0,0,0,0,0,0,0,0
+retinal degeneration,Modifier,0,0,0,0,0,0,0,0,0,0
+skin tumour,no Modifier,0,0,0,0,0,0,0,0,0,0
+cancer,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+colon cancers,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+adenomatous polyposis coli,no Modifier,0,0,0,0,0,0,0,0,0,0
+APC,no Modifier,0,0,0,0,0,0,0,0,0,0
+colon and some other cancers,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+skin tumours,no Modifier,0,0,0,0,0,0,0,0,0,0
+pilomatricomas,no Modifier,0,0,0,0,0,0,0,0,0,0
+pilomatricomas,no Modifier,0,0,0,0,0,0,0,0,0,0
+skin tumour,no Modifier,0,0,0,0,0,0,0,0,0,0
+pilomatricomas,no Modifier,0,0,0,0,0,0,0,0,0,0
+tumours,no Modifier,0,0,0,0,0,0,0,0,0,0
+tumours,no Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+Hereditary hemochromatosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+HH,no Modifier,0,0,0,0,0,0,0,0,0,0
+autosomal recessive genetic disorder,no Modifier,0,0,0,0,0,0,0,0,0,0
+HH,no Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+breast or ovarian cancer,no Modifier,0,0,1.12966,0,0,0,0,0,1.07443,0
+cancer,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+ovarian cancer,no Modifier,0,0,1.12966,0,0,0,0,0,1.07443,0
+Familial deficiency of the seventh component of complement,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+bacteremic infections due to Neisseria,no Modifier,0,0,0,0,0,0,0,0,0,0
+disseminated gonococcal infection,no Modifier,0,0,0,0,0,0,0,0,0,0
+meningococcal meningitis,no Modifier,0,0,0,0,0,0,0,0,0,0
+arthritis,no Modifier,0,0,0,0,0,0,0,0,0,0
+Complete absence of C7,no Modifier,0,0,0,0,0,0,0,0,0,0
+meningococcal meningitis,no Modifier,0,0,0,0,0,0,0,0,0,0
+arthritis,no Modifier,0,0,0,0,0,0,0,0,0,0
+C7 deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+C7 deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+bacteremic neisseria infections,no Modifier,0,0,0,0,0,0,0,0,0,0
+oromandibular dystonia,no Modifier,0,0,0,0,0,0,0,0,0,0
+oromandibular dystonia,no Modifier,0,0,0,0,0,0,0,0,0,0
+dystonia,no Modifier,0,0,0,0,0,0,0,0,0,0
+dopa-responsive dystonia,no Modifier,0,0,0,0,0,0,0,0,0,0
+familial Mediterranean fever,no Modifier,0,0,0,0,0,0,0,0,0,0
+Familial Mediterranean fever,no Modifier,0,0,0,0,0,0,0,0,0,0
+FMF,no Modifier,0,0,0,0,0,0,0,0,0,0
+recessive disorder,no Modifier,0,0,0,0,0,0,0,0,0,0
+serositis,no Modifier,0,0,0,0,0,0,0,0,0,0
+synovitis,no Modifier,0,0,0,0,0,0,0,0,0,0
+FMF,no Modifier,0,0,0,0,0,0,0,0,0,0
+FMF,no Modifier,0,0,0,0,0,0,0,0,0,0
+Autoimmune lymphoproliferative syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+Autoimmune lymphoproliferative syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+ALPS,no Modifier,0,0,0,0,0,0,0,0,0,0
+disorder of lymphocyte homeostasis and immunological tolerance,no Modifier,0,0,0,0,0,0,0,0,0,0
+ALPS,no Modifier,0,0,0,0,0,0,0,0,0,0
+ALPS,no Modifier,0,0,0,0,0,0,0,0,0,0
+X-linked adrenoleukodystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+X-linked adrenoleukodystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+inherited disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+neurologic dysfunction,no Modifier,0,0,0,0,0,0,0,0,0,0
+adrenal insufficiency,no Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+childhood cerebral ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+neurologic deterioration,no Modifier,0,0,0,0,0,0,0,0,0,0
+cerebral ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+neurologic dysfunction,no Modifier,0,0,0,0,0,0,0,0,0,0
+adrenomyeloneuropathy,no Modifier,0,0,0,0,0,0,0,0,0,0
+Addison disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+childhood cerebral ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+cerebral ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+adrenomyeloneuropathy,no Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+cerebral ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+Absence of the seventh component of complement,no Modifier,0,0,0,0,0,0,0,0,0,0
+chronic meningococcemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+vasculitis,no Modifier,0,0,0,0,0,0,0,0,0,0
+fever,no Modifier,0,0,0,0,0,0,0,0,0,0
+arthritis,no Modifier,0,0,0,0,0,0,0,0,0,0
+cutaneous vasculitis,no Modifier,0,0,0,0,0,0,0,0,0,0
+chronic meningococcemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+deficiency of the seventh component of complement,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+deficiency of C7,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+Chronic neisserial infection,no Modifier,0,0,0,0,0,0,0,0,0,0
+C7 deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+cutaneous vasculitis,no Modifier,0,0,0,0,0,0,0,0,0,0
+dihydropyrimidine dehydrogenase deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+Dihydropyrimidine dehydrogenase (DPD) deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+autosomal recessive disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+DPD deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+deficiency of DPD,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+convulsive disorders,no Modifier,0,0,0,0,0,0,0,0,0,0
+motor retardation,no Modifier,0,0,0,0,0,0,0,0,0,0
+mental retardation,no Modifier,0,0,0,0,0,0,0,0,0,0
+clinical abnormalities,no Modifier,0,0,0,0,0,0,0,0,0,0
+DPD deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+glucose-6-phosphate dehydrogenase (G6PD) deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+G6PD deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+glucose-6-phosphate dehydrogenase (G6PD) deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+G6PD deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+G6PD deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+Homozygous hypobetalipoproteinemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+abetalipoproproteinemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+homozygous hypobetalipoproteinemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+HBL,no Modifier,0,0,0,0,0,0,0,0,0,0
+abetalipoproteinemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+Hereditary hemochromatosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+excess iron deposits,no Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+hepatic fibrosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+excessive alcohol consumption,no Modifier,0,0,0,0,0,0,0,0,0,0
+cirrhosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+microvesicular steatosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+hereditary hemochromatosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+hepatomegaly,no Modifier,0,0,0,0,0,0,0,0,0,0
+skin pigmentation,no Modifier,0,0,0,0,0,0,0,0,0,0
+arthritis,no Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+Pelizaeus-Merzbacher disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+Pelizaeus-Merzbacher disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+"rare, sex-linked recessive, dysmyelinating disease of the central nervous system",no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+Pelizaeus-Merzbacher disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+Pelizaeus-Merzbacher disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+Pelizaeus-Merzbacher disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+diastrophic dysplasia,no Modifier,0,0,0,0,0,0,0,0,0,0
+chondrodysplasias,no Modifier,0,0,0,0,0,0,0,0,0,0
+diastrophic dysplasia,no Modifier,0,0,0,0,0,0,0,0,0,0
+platyspondyly,no Modifier,0,0,0,0,0,0,0,0,0,0
+metatropic dysplasia,no Modifier,0,0,0,0,0,0,0,0,0,0
+Pelizaeus-Merzbacher disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+X-linked Pelizaeus-Merzbacher disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+PMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+PMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+Gardner syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+Gardner syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+GS,no Modifier,0,0,0,0,0,0,0,0,0,0
+mental retardation,no Modifier,0,0,0,0,0,0,0,0,0,0
+craniofacial abnormalities,no Modifier,0,0,0,0,0,0,0,0,0,0
+adenomatous polyposis coli,no Modifier,0,0,0,0,0,0,0,0,0,0
+GS,no Modifier,0,0,0,0,0,0,0,0,0,0
+familial polyposis coli,no Modifier,0,0,0,0,0,0,0,0,0,0
+FPC,no Modifier,0,0,0,0,0,0,0,0,0,0
+Type I human complement C2 deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+deficiency of complement protein C2,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+Type I C2 deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+type I C2 deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+type I human complement C2 deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+type II C2 deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+genetic defect,no Modifier,0,0,0,0,0,0,0,0,0,0
+FMR1 deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+Fragile X syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+mental retardation,no Modifier,0,0,0,0,0,0,0,0,0,0
+macroorchidism,no Modifier,0,0,0,0,0,0,0,0,0,0
+fragile X syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+fragile X syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+Fabry disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+Fabry disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+FD,no Modifier,0,0,0,0,0,0,0,0,0,0
+angiokeratoma corporis diffusum,no Modifier,0,0,0,0,0,0,0,0,0,0
+X-linked inborn error of glycosphingolipid metabolism,no Modifier,0,0,0,0,0,0,0,0,0,0
+angiokeratoma,no Modifier,0,0,0,0,0,0,0,0,0,0
+severe acroparesthesia,no Modifier,0,0,0,0,0,0,0,0,0,0
+renal failure,no Modifier,0,0,0,0,0,0,0,0,0,0
+vasculopathy of the heart and brain,no Modifier,0,0,0,0,0,0,0,0,0,0
+alpha-galactosidase deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+alpha-Gal A deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+FD,no Modifier,0,0,0,0,0,0,0,0,0,0
+bipolar disorder,no Modifier,0,0,0,0,0,0,0,0,0,0
+bipolar affective disorder,no Modifier,0,0,0,0,0,0,0,0,0,0
+BPAD,no Modifier,0,0,0,0,0,0,0,0,0,0
+BPAD,no Modifier,0,0,0,0,0,0,0,0,0,0
+breast cancer,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+breast and ovarian cancer,no Modifier,0,0,1.12966,0,0,0,0,0,1.07443,0
+breast cancer,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+breast cancer,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+breast cancer,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+breast cancer,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+breast or ovarian cancer,no Modifier,0,0,1.12966,0,0,0,0,0,1.07443,0
+breast cancer,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+breast or ovarian cancer,no Modifier,0,0,1.12966,0,0,0,0,0,1.07443,0
+choroideremia,no Modifier,0,0,0,0,0,0,0,0,0,0
+Choroideremia,no Modifier,0,0,0,0,0,0,0,0,0,0
+CHM,no Modifier,0,0,0,0,0,0,0,0,0,0
+X-linked progressive degeneration of the choroid and retina,no Modifier,0,0,0,0,0,0,0,0,0,0
+X-linked adrenoleukodystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+adolescent ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+cerebral ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+adrenomyeloneuropathy,no Modifier,0,0,0,0,0,0,0,0,0,0
+Addison only,no Modifier,0,0,0,0,0,0,0,0,0,0
+Duchenne muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+DMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+muscular injury,no Modifier,0,0,0,0,0,0,0,1.09225,0,0
+muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+DMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+metabolic disorder,no Modifier,0,0,0,0,0,0,0,0,0,0
+normotriglyceridemic abetalipoproteinemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+normotriglyceridemic abetalipoproteinemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+homozygous hypobetalipoproteinemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+von Willebrand disease type B,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+von Willebrand disease type B,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+von Willebrand disease type B,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+von Willebrand disease type B,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+male breast cancer,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+breast-ovarian syndrome,no Modifier,0,0,0,0,0,0,0,0,1.07443,1.21605
+autosomal recessive disease glucose/galactose malabsorption,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+genetic diseases,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+Deficiency of beta-hexosaminidase A,no Modifier,0,0,0,0,0,0,0,0,0,0
+Tay-Sachs disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+deficient in Hex A,no Modifier,0,0,0,0,0,0,0,0,0,0
+Tay-Sachs disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+TSD,no Modifier,0,0,0,0,0,0,0,0,0,0
+Canavan disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+Canavan disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+spongy degeneration of the brain,no Modifier,0,0,0,0,0,0,0,0,0,0
+leukodystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+deficiency of aspartoacylase,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+Canavan disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+trinucleotide repeat disorders,no Modifier,0,0,0,0,0,0,0,0,0,0
+Machado-Joseph disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+MJD,no Modifier,0,0,0,0,0,0,0,0,0,0
+Duchenne muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+DMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+alkaptonuria,no Modifier,0,0,0,0,0,0,0,0,0,0
+AKU,no Modifier,0,0,0,0,0,0,0,0,0,0
+Alkaptonuria,no Modifier,0,0,0,0,0,0,0,0,0,0
+AKU,no Modifier,0,0,0,0,0,0,0,0,0,0
+autosomal recessive disorder,no Modifier,0,0,0,0,0,0,0,0,0,0
+Ochronosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+ochronotic arthropathy,no Modifier,0,0,0,0,0,0,0,0,0,0
+alkaptonuria,no Modifier,0,0,0,0,0,0,0,0,0,0
+Deficiency of the ninth component of human complement,no Modifier,0,0,0,0,0,0,0,0,0,0
+complement deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+C9 deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+C9 deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+C9 deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+Lesch-Nyhan syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+hypoxanthine phosphoribosyltransferase [HPRT] deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+X-linked Emery-Dreifuss muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+Emery-Dreifuss muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+EDMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+X-linked recessive muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+"contractures of the elbows, Achilles tendons and spine",no Modifier,0,0,0,0,0,0,0,0,0,0
+muscle wasting,no Modifier,0,0,0,0,0,0,0,0,0,0
+weakness,no Modifier,0,0,0,0,0,0,0,0,0,0
+cardiomyopathy,no Modifier,0,0,0,0,0,0,0,0,0,0
+cardiac conduction defects,no Modifier,0,0,0,0,0,0,0,0,0,0
+EDMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+elbow contractures,no Modifier,0,0,0,0,0,0,0,0,0,0
+ankle contractures,no Modifier,0,0,0,0,0,0,0,0,0,0
+upper limb weakness,no Modifier,0,0,0,0,0,0,0,0,0,0
+lower limb weakness,no Modifier,0,0,0,0,0,0,0,0,0,0
+cardiac involvement,no Modifier,0,0,0,0,0,0,0,0,0,0
+EDMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+non-hereditary (sporadic) breast cancer,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+carcinoma in situ,no Modifier,0,0,0,0,0,0,0,0,0,0
+invasive cancer,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+breast cancer,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+Pelizaeus-Merzbacher disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+Pelizaeus-Merzbacher disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+PMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+PMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+PMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+genetic disorders,no Modifier,0,0,0,0,0,0,0,0,0,0
+myotonic dystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+myotonic dystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+DM,no Modifier,0,0,0,0,0,0,0,0,0,0
+cardiac involvement,no Modifier,0,0,0,0,0,0,0,0,0,0
+GM1-gangliosidosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+lysosomal storage disorder,no Modifier,0,0,0,0,0,0,0,0,0,0
+deficiency of acid beta-galactosidase,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+cardiac involvement,no Modifier,0,0,0,0,0,0,0,0,0,0
+GM1-gangliosidosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+cardiac involvement,no Modifier,0,0,0,0,0,0,0,0,0,0
+cardiac abnormalities,no Modifier,0,0,0,0,0,0,0,0,0,0
+genetic lesions,no Modifier,0,0,0,0,0,0,0,0,0,0
+cardiomyopathy,no Modifier,0,0,0,0,0,0,0,0,0,0
+familial Mediterranean fever,no Modifier,0,0,0,0,0,0,0,0,0,0
+familial Mediterranean fever,no Modifier,0,0,0,0,0,0,0,0,0,0
+FMF,no Modifier,0,0,0,0,0,0,0,0,0,0
+FMF,no Modifier,0,0,0,0,0,0,0,0,0,0
+deficient in Six5,no Modifier,0,0,0,0,0,0,0,0,0,0
+cataracts,no Modifier,0,0,0,0,0,0,0,0,0,0
+myotonic dystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+myotonic dystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+dominantly inherited disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+muscle dystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+myotonia,no Modifier,0,0,0,0,0,0,0,0,0,0
+cataracts,no Modifier,0,0,0,0,0,0,0,0,0,0
+cardiac conduction defects,no Modifier,0,0,0,0,0,0,0,0,0,0
+myopathy,no Modifier,0,0,0,0,0,0,0,0,0,0
+cardiac conduction abnormalities,no Modifier,0,0,0,0,0,0,0,0,0,0
+myotonic dystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+myotonia,no Modifier,0,0,0,0,0,0,0,0,0,0
+cataracts,no Modifier,0,0,0,0,0,0,0,0,0,0
+SIX5 deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+abnormalities of skeletal muscle function,no Modifier,0,0,0,0,0,0,0,0,0,0
+lenticular opacities,no Modifier,0,0,0,0,0,0,0,0,0,0
+SIX5 deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+myotonic dystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+myotonic dystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+multigenic disorder,no Modifier,0,0,0,0,0,0,0,0,0,0
+deficiency of C5,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+discoid lupus erythematosus,no Modifier,0,0,0,0,0,0,0,0,0,0
+discoid lupus erythematosus,no Modifier,0,0,0,0,0,0,0,0,0,0
+Hypocomplementemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+deficiency of C5,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+discoid lupus erythematosus,no Modifier,0,0,0,0,0,0,0,0,0,0
+C5 deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+WAS,no Modifier,0,0,0,0,0,0,0,0,0,0
+Wiskott-Aldrich syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+WAS,no Modifier,0,0,0,0,0,0,0,0,0,0
+WAS,no Modifier,0,0,0,0,0,0,0,0,0,0
+thrombocytopenia,no Modifier,0,0,0,0,0,0,0,0,0,0
+WAS,no Modifier,0,0,0,0,0,0,0,0,0,0
+inherited breast and ovarian cancers,no Modifier,0,0,1.12966,0,0,0,0,0,1.07443,0
+breast cancer,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+Spinocerebellar ataxia type-3,no Modifier,0,0,0,0,0,0,0,0,0,0
+Machado-Joseph disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+SCA3,no Modifier,0,0,0,0,0,0,0,0,0,0
+MJD,no Modifier,0,0,0,0,0,0,0,0,0,0
+CAG/polyglutamine repeat disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+polyglutamine disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+neuronal dysfunction,no Modifier,0,0,0,0,0,0,0,0,0,0
+SCA3,no Modifier,0,0,0,0,0,0,0,0,0,0
+MJD,no Modifier,0,0,0,0,0,0,0,0,0,0
+SCA3,no Modifier,0,0,0,0,0,0,0,0,0,0
+MJD,no Modifier,0,0,0,0,0,0,0,0,0,0
+urogenital abnormalities,no Modifier,0,0,0,0,0,0,0,0,0,0
+Denys-Drash syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+WT1 dysfunction,no Modifier,0,0,0,0,0,0,0,0,0,0
+Wilms tumor,no Modifier,0,0,0,0,0,0,0,0,0,0
+mesothelioma,no Modifier,0,0,0,0,0,0,0,0,0,0
+leukemias,no Modifier,0,0,0,0,0,0,0,0,0,0
+breast cancer,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+glomerulosclerosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+Denys-Drash syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+DDS,no Modifier,0,0,0,0,0,0,0,0,0,0
+DDS,no Modifier,0,0,0,0,0,0,0,0,0,0
+nephropathy,no Modifier,0,0,0,0,0,0,0,0,0,0
+mesangial sclerosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+pseudohermaphroditism,no Modifier,0,0,0,0,0,0,0,0,0,0
+Wilms tumor,no Modifier,0,0,0,0,0,0,0,0,0,0
+WT,no Modifier,0,0,0,0,0,0,0,0,0,0
+mesangial sclerosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+DDS,no Modifier,0,0,0,0,0,0,0,0,0,0
+Male genital defects,no Modifier,0,0,0,0,0,0,0,0,0,0
+Wilms tumor,no Modifier,0,0,0,0,0,0,0,0,0,0
+Wt1 dysfunction,no Modifier,0,0,0,0,0,0,0,0,0,0
+Wilms tumorigenesis,no Modifier,0,0,0,0,0,0,0,0,0,0
+WT,no Modifier,0,0,0,0,0,0,0,0,0,0
+X-linked Emery-Dreifuss muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+contractures of the Achilles tendons,no Modifier,0,0,0,0,0,0,0,0,0,0
+contractures of the elbows,no Modifier,0,0,0,0,0,0,0,0,0,0
+cardiac abnormality,no Modifier,0,0,0,0,0,0,0,0,0,0
+X-linked Emery-Dreifuss muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+EDMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+EDMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+sudden cardiac death,no Modifier,0,0,0,0,0,0,0,0,0,0
+Adrenoleukodystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+Glucose-6-phosphate dehydrogenase deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+G6PD deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+G6PD deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+G6PD deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+malaria,no Modifier,0,0,0,0,0,0,0,0,0,0
+fatal hemolysis,no Modifier,0,0,0,0,0,0,0,0,0,0
+C3 deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+glomerulonephritis,no Modifier,0,0,0,0,0,0,0,0,0,0
+deficiency of the third component of complement,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+bacterial infections,no Modifier,0,0,0,0,0,0,0,0,0,0
+pneumonia,no Modifier,0,0,0,0,0,0,0,0,0,0
+mesangiopathic glomerulonephritis,no Modifier,0,0,0,0,0,0,0,0,0,0
+C3 deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+immune-complex disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+pyogenic infections,no Modifier,0,0,0,0,0,0,0,0,0,0
+C3 deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+Lesch-Nyhan syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+HPRT enzyme deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+Lesch-Nyhan syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+familial breast and ovarian cancers,no Modifier,0,0,1.12966,0,0,0,0,0,1.07443,0
+Duchenne muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+Duchenne muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+DMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+myotonic dystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+DM,no Modifier,0,0,0,0,0,0,0,0,0,0
+DM,no Modifier,0,0,0,0,0,0,0,0,0,0
+DM,no Modifier,0,0,0,0,0,0,0,0,0,0
+enzyme deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+haemolysis,no Modifier,0,0,0,0,0,0,0,0,0,0
+G6PD deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+autosomal recessive disorder,no Modifier,0,0,0,0,0,0,0,0,0,0
+ataxia-telangiectasia,no Modifier,0,0,0,0,0,0,0,0,0,0
+A-T,no Modifier,0,0,0,0,0,0,0,0,0,0
+breast cancer,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+breast cancer,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+sporadic breast cancer,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+breast cancer,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+Autoimmune lymphoproliferative syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+ALPS,no Modifier,0,0,0,0,0,0,0,0,0,0
+Autoimmune lymphoproliferative syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+ALPS,no Modifier,0,0,0,0,0,0,0,0,0,0
+ALPS,no Modifier,0,0,0,0,0,0,0,0,0,0
+galactosemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+galactosemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+classic galactosemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+galactosemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+galactosemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+galactosemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+galactosemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+Myotonic dystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+DM,no Modifier,0,0,0,0,0,0,0,0,0,0
+inherited neuromuscular disease,no Modifier,0,0,0,0,1.22993,0,0,1.09225,0,0
+genetic defect,no Modifier,0,0,0,0,0,0,0,0,0,0
+van der Woude syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+cleft palate,no Modifier,0,0,0,0,0,0,0,0,0,0
+van der Woude syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+VWS,no Modifier,0,0,0,0,0,0,0,0,0,0
+pits and/or sinuses of the lower lip,no Modifier,0,0,0,0,0,0,0,0,0,0
+cleft lip/palate,no Modifier,0,0,0,0,0,0,0,0,0,0
+CL/P,no Modifier,0,0,0,0,0,0,0,0,0,0
+cleft palate,no Modifier,0,0,0,0,0,0,0,0,0,0
+CP,no Modifier,0,0,0,0,0,0,0,0,0,0
+bifid uvula,no Modifier,0,0,0,0,0,0,0,0,0,0
+hypodontia,no Modifier,0,0,0,0,0,0,0,0,0,0
+H,no Modifier,0,0,0,0,0,0,0,0,0,0
+VWS,no Modifier,0,0,0,0,0,0,0,0,0,0
+CL/P,no Modifier,0,0,0,0,0,0,0,0,0,0
+CP,no Modifier,0,0,0,0,0,0,0,0,0,0
+CP,no Modifier,0,0,0,0,0,0,0,0,0,0
+VWS,no Modifier,0,0,0,0,0,0,0,0,0,0
+clefts,no Modifier,0,0,0,0,0,0,0,0,0,0
+VWS,no Modifier,0,0,0,0,0,0,0,0,0,0
+CP,no Modifier,0,0,0,0,0,0,0,0,0,0
+VWS,no Modifier,0,0,0,0,0,0,0,0,0,0
+CP,no Modifier,0,0,0,0,0,0,0,0,0,0
+enzyme deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+hemolytic anemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+Glucose-6-phosphate dehydrogenase (G6PD; EC 1. 1. 1. 49) deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+genetic abnormality,no Modifier,0,0,0,0,0,0,0,0,0,0
+enzyme deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+favism,no Modifier,0,0,0,0,0,0,0,0,0,0
+neonatal jaundice,no Modifier,0,0,0,0,0,0,0,0,0,0
+hemolytic anemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+G6PD deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+CETP deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+CETP deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+hypercholesterolemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+CETP deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+CETP deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+premature atherosclerosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+CETP deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+CETP deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+deficiency of the seventh component of complement,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+meningococcal infection,no Modifier,0,0,0,0,0,0,0,0,0,0
+Terminal complement component deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+meningococcal infection,no Modifier,0,0,0,0,0,0,0,0,0,0
+meningococcal infection,no Modifier,0,0,0,0,0,0,0,0,0,0
+terminal complement deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+completely deficient in the seventh component of complement,no Modifier,0,0,0,0,0,0,0,0,0,0
+C7 deficient,no Modifier,0,0,0,0,0,0,0,0,0,0
+meningococcal infection,no Modifier,0,0,0,0,0,0,0,0,0,0
+muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+Duchenne or Becker muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+DMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+BMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+hereditary retinoblastoma,no Modifier,0,0,0,0,0,0,0,0,0,0
+hereditary retinoblastoma,no Modifier,0,0,0,0,0,0,0,0,0,0
+Pendred syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+non-syndromic hearing loss,no Modifier,0,0,0,0,0,0,0,0,0,0
+DFNB4,no Modifier,0,0,0,0,0,0,0,0,0,0
+Pendred syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+autosomal recessive non-syndromic hearing loss,no Modifier,0,0,0,0,0,0,0,0,0,0
+non-syndromic hearing loss,no Modifier,0,0,0,0,0,0,0,0,0,0
+Pendred syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+non-syndromic hearing loss,no Modifier,0,0,0,0,0,0,0,0,0,0
+non-syndromic hearing loss,no Modifier,0,0,0,0,0,0,0,0,0,0
+Pendred syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+DFNB4,no Modifier,0,0,0,0,0,0,0,0,0,0
+goiter,no Modifier,0,0,0,0,0,0,0,0,0,0
+DFNB4,no Modifier,0,0,0,0,0,0,0,0,0,0
+metachromatic leukodystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+metachromatic leukodystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+MLD,no Modifier,0,0,0,0,0,0,0,0,0,0
+MLD,no Modifier,0,0,0,0,0,0,0,0,0,0
+MLD,no Modifier,0,0,0,0,0,0,0,0,0,0
+Classical galactosemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+Classical galactosemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+galactosemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+X-linked retinoschisis,no Modifier,0,0,0,0,0,0,0,0,0,0
+X-linked retinoschisis,no Modifier,0,0,0,0,0,0,0,0,0,0
+XLRS,no Modifier,0,0,0,0,0,0,0,0,0,0
+vitreoretinal dystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+visual loss,no Modifier,0,0,0,0,0,0,0,0,0,0
+XLRS,no Modifier,0,0,0,0,0,0,0,0,0,0
+genetic abnormalities,no Modifier,0,0,0,0,0,0,0,0,0,0
+XLRS,no Modifier,0,0,0,0,0,0,0,0,0,0
+XLRS,no Modifier,0,0,0,0,0,0,0,0,0,0
+hypomyelination,no Modifier,0,0,0,0,0,0,0,0,0,0
+glial cell death,no Modifier,0,0,0,0,0,0,0,0,0,0
+genetic disorders,no Modifier,0,0,0,0,0,0,0,0,0,0
+Pelizaeus-Merzbacher disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+degeneration and premature cell death of oligodendrocytes,no Modifier,0,0,0,0,0,0,0,0,0,0
+hypomyelination,no Modifier,0,0,0,0,0,0,0,0,0,0
+myelin-deficient,no Modifier,0,0,0,0,0,0,0,0,0,0
+Hypomyelination,no Modifier,0,0,0,0,0,0,0,0,0,0
+oligodendrocyte degeneration,no Modifier,0,0,0,0,0,0,0,0,0,0
+Pelizaeus-Merzbacher disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+Alkaptonuria,no Modifier,0,0,0,0,0,0,0,0,0,0
+AKU,no Modifier,0,0,0,0,0,0,0,0,0,0
+inborn error of metabolism,no Modifier,0,0,0,0,0,0,0,0,0,0
+Adrenoleukodystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+X-linked disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+cerebral ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+adrenomyeloneuropathy,no Modifier,0,0,0,0,0,0,0,0,0,0
+AMN,no Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+Central nervous system demyelination,no Modifier,0,0,0,0,0,0,0,0,0,0
+AMN,no Modifier,0,0,0,0,0,0,0,0,0,0
+Adrenal insufficiency,no Modifier,0,0,0,0,0,0,0,0,0,0
+Addisons disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+Brugada syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+congenital long-QT syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+LQT3,no Modifier,0,0,0,0,0,0,0,0,0,0
+idiopathic ventricular fibrillation,no Modifier,0,0,0,0,0,0,0,0,0,0
+IVF,no Modifier,0,0,0,0,0,0,0,0,0,0
+IVF,no Modifier,0,0,0,0,0,0,0,0,0,0
+IVF,no Modifier,0,0,0,0,0,0,0,0,0,0
+Autosomal recessive familial neurohypophyseal diabetes insipidus,no Modifier,0,0,0,0,0,0,0,0,0,0
+Familial neurohypophyseal diabetes insipidus,no Modifier,0,0,0,0,0,0,0,0,0,0
+autosomal dominant disorder,no Modifier,0,0,0,0,0,0,0,0,0,0
+arginine vasopressin (AVP) deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+neuronal damage,no Modifier,0,0,0,0,0,0,0,0,0,0
+neurohypophyseal diabetes insipidus,no Modifier,0,0,0,0,0,0,0,0,0,0
+deficiency of active AVP,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+aniridia,no Modifier,0,0,0,0,0,0,0,0,0,0
+aniridia,no Modifier,0,0,0,0,0,0,0,0,0,0
+aniridia,no Modifier,0,0,0,0,0,0,0,0,0,0
+aniridia,no Modifier,0,0,0,0,0,0,0,0,0,0
+Knobloch syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+midline scalp defect of the frontal region,no Modifier,0,0,0,0,0,0,0,0,0,0
+Knobloch syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+vitreoretinal degeneration,no Modifier,0,0,0,0,0,0,0,0,0,0
+high myopia,no Modifier,0,0,0,0,0,0,0,0,0,0
+cataract,no Modifier,0,0,0,0,0,0,0,0,0,0
+telecanthus,no Modifier,0,0,0,0,0,0,0,0,0,0
+hypertelorism,no Modifier,0,0,0,0,0,0,0,0,0,0
+high-arched palate,no Modifier,0,0,0,0,0,0,0,0,0,0
+defect of the anterior midline scalp,no Modifier,0,0,0,0,0,0,0,0,0,0
+midline scalp defects,no Modifier,0,0,0,0,0,0,0,0,0,0
+Pendred syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+Pendred syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+congenital sensorineural hearing loss,no Modifier,0,0,0,0,0,0,0,0,0,0
+thyroid goiter,no Modifier,0,0,0,0,0,0,0,0,0,0
+autosomal recessive disorder,no Modifier,0,0,0,0,0,0,0,0,0,0
+congenital deafness,no Modifier,0,0,0,0,0,0,0,0,0,0
+widened vestibular aqueduct,no Modifier,0,0,0,0,0,0,0,0,0,0
+goiter,no Modifier,0,0,0,0,0,0,0,0,0,0
+Pendred syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+congenital hearing loss,no Modifier,0,0,0,0,0,0,0,0,0,0
+inner ear morphological anomaly,no Modifier,0,0,0,0,0,0,0,0,0,0
+thyroid goiter,no Modifier,0,0,0,0,0,0,0,0,0,0
+familial adenomatous polyposis,no Modifier,0,0,0,0,0,0,0,0,0,0
+tumors,no Modifier,0,0,0,0,0,0,0,0,0,0
+FAP,no Modifier,0,0,0,0,0,0,0,0,0,0
+familial adenomatous polyposis,no Modifier,0,0,0,0,0,0,0,0,0,0
+sporadic colorectal cancers,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+colorectal adenomas,no Modifier,0,0,0,0,0,0,0,0,0,0
+FAP desmoids,no Modifier,0,0,0,0,0,0,0,0,0,0
+tumors,no Modifier,0,0,0,0,0,0,0,0,0,0
+tumors,no Modifier,0,0,0,0,0,0,0,0,0,0
+VLCAD deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+VLCAD deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+cardiac disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+hypertrophic cardiomyopathy,no Modifier,0,0,0,0,0,0,0,0,0,0
+cardiac disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+Lesch-Nyhan syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+complete deficiency of hypoxanthine guanine phosphoribosyltransferase,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+Lesch-Nyhan syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+hyperphenylalaninemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+classical phenylketonuria,no Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+HFE deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+hemochromatosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+G6PD deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+G6PD deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+G6PD deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+malaria,no Modifier,0,0,0,0,0,0,0,0,0,0
+G6PD deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+Wiskott-Aldrich syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+Wiskott-Aldrich syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+WAS,no Modifier,0,0,0,0,0,0,0,0,0,0
+adrenoleukodystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+adrenomyeloneuropathy,no Modifier,0,0,0,0,0,0,0,0,0,0
+adrenoleukodystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+adrenomyeloneuropathy,no Modifier,0,0,0,0,0,0,0,0,0,0
+AMN,no Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+AMN,no Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+AMN,no Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+AMN,no Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+AMN,no Modifier,0,0,0,0,0,0,0,0,0,0
+Tay-Sachs disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+TSD,no Modifier,0,0,0,0,0,0,0,0,0,0
+Huntington disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+HD,no Modifier,0,0,0,0,0,0,0,0,0,0
+autosomal dominant neurodegenerative disorder,no Modifier,0,0,0,0,0,0,0,0,0,0
+myotonic dystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+myotonic dystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+DM,no Modifier,0,0,0,0,0,0,0,0,0,0
+hemochromatosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+Li-Fraumeni syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+autosomal dominant disorder,no Modifier,0,0,0,0,0,0,0,0,0,0
+cancer,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+cancers,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+Li-Fraumeni syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+cancer,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+Li-Fraumeni syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+seminoma,no Modifier,0,0,0,0,0,0,0,0,0,0
+medulloblastoma,no Modifier,0,0,0,0,0,0,0,0,0,0
+seminoma,no Modifier,0,0,0,0,0,0,0,0,0,0
+Li-Fraumeni syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+seminoma,no Modifier,0,0,0,0,0,0,0,0,0,0
+medulloblastoma,no Modifier,0,0,0,0,0,0,0,0,0,0
+tumorogenesis,no Modifier,0,0,0,0,0,0,0,0,0,0
+phenylketonuria,no Modifier,0,0,0,0,0,0,0,0,0,0
+Phenylketonuria,no Modifier,0,0,0,0,0,0,0,0,0,0
+PKU,no Modifier,0,0,0,0,0,0,0,0,0,0
+autosomal recessive human genetic disorder,no Modifier,0,0,0,0,0,0,0,0,0,0
+deficiency of hepatic phenylalanine hydroxylase,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+PKU,no Modifier,0,0,0,0,0,0,0,0,0,0
+inborn error of amino-acid metabolism,no Modifier,0,0,0,0,0,0,0,0,0,0
+PKU,no Modifier,0,0,0,0,0,0,0,0,0,0
+molecular lesion,no Modifier,0,0,0,0,0,0,0,0,0,0
+Duchenne muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+DMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+Familial adenomatous polyposis,no Modifier,0,0,0,0,0,0,0,0,0,0
+FAP,no Modifier,0,0,0,0,0,0,0,0,0,0
+colorectal cancer,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+adenomatous polyposis coli,no Modifier,0,0,0,0,0,0,0,0,0,0
+APC,no Modifier,0,0,0,0,0,0,0,0,0,0
+familial adenomatous polyposis,no Modifier,0,0,0,0,0,0,0,0,0,0
+FAP,no Modifier,0,0,0,0,0,0,0,0,0,0
+Duchenne muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+Duchenne muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+DMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+glucose-6-phosphate dehydrogenase (G6PD) deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+G6PD deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+Norrie disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+pseudoglioma,no Modifier,0,0,0,0,0,0,0,0,0,0
+NDP,no Modifier,0,0,0,0,0,0,0,0,0,0
+X-linked neurodevelopmental disorder,no Modifier,0,0,0,0,0,0,0,0,0,0
+Wolman disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+Wolman disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+Wolman disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+Wolman disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+sporadic ovarian tumours,no Modifier,0,0,0,0,0,0,0,0,1.07443,0
+autosomal dominant syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+breast and ovarian cancer,no Modifier,0,0,1.12966,0,0,0,0,0,1.07443,0
+tumours,no Modifier,0,0,0,0,0,0,0,0,0,0
+tumour,no Modifier,0,0,0,0,0,0,0,0,0,0
+ovarian cancers,no Modifier,0,0,1.12966,0,0,0,0,0,1.07443,0
+tumours,no Modifier,0,0,0,0,0,0,0,0,0,0
+ovarian cancers,no Modifier,0,0,1.12966,0,0,0,0,0,1.07443,0
+Duchenne muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+Duchenne muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+DMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+limb-girdle muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+myopathy,no Modifier,0,0,0,0,0,0,0,0,0,0
+uniparental disomy,no Modifier,0,0,0,0,0,0,0,0,0,0
+Kaposi sarcoma,no Modifier,0,0,0,0,0,0,0,0,0,0
+T-cell lymphoma,no Modifier,0,0,0,0,0,0,0,0,0,0
+Wiskott-Aldrich syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+eczema,no Modifier,0,0,0,0,0,0,0,0,0,0
+thrombocytopenia,no Modifier,0,0,0,0,0,0,0,0,0,0
+Wiskott-Aldrich syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+WAS,no Modifier,0,0,0,0,0,0,0,0,0,0
+lymphadenopathy,no Modifier,0,0,0,0,0,0,0,0,0,0
+splenomegaly,no Modifier,0,0,0,0,0,0,0,0,0,0
+thrombocytopenia,no Modifier,0,0,0,0,0,0,0,0,0,0
+WAS,no Modifier,0,0,0,0,0,0,0,0,0,0
+Kaposi sarcoma,no Modifier,0,0,0,0,0,0,0,0,0,0
+T-cell large cell lymphoma,no Modifier,0,0,0,0,0,0,0,0,0,0
+Epstein-Barr virus,no Modifier,0,0,0,0,0,0,0,0,0,0
+cytomegalovirus,no Modifier,0,0,0,0,0,0,0,0,0,0
+human immunodeficiency virus,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+HIV,no Modifier,0,0,0,0,0,0,0,0,0,0
+Kaposi sarcoma,no Modifier,0,0,0,0,0,0,0,0,0,0
+congenital immunodeficiency syndrome,no Modifier,0,0,0,1.37377,0,0,0,0,0,1.21605
+Kaposi sarcoma,no Modifier,0,0,0,0,0,0,0,0,0,0
+HIV,no Modifier,0,0,0,0,0,0,0,0,0,0
+Kaposi sarcoma,no Modifier,0,0,0,0,0,0,0,0,0,0
+Combined genetic deficiency of C6 and C7,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+sub-total deficiency of C6 and C7,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+C6 deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+Langer-Giedion syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+Langer-Giedion syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+LGS,no Modifier,0,0,0,0,0,0,0,0,0,0
+LGS,no Modifier,0,0,0,0,0,0,0,0,0,0
+LGS,no Modifier,0,0,0,0,0,0,0,0,0,0
+LGS,no Modifier,0,0,0,0,0,0,0,0,0,0
+LGS,no Modifier,0,0,0,0,0,0,0,0,0,0
+Friedreich ataxia,no Modifier,0,0,0,0,0,0,0,0,0,0
+Frataxin deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+Friedreich ataxia,no Modifier,0,0,0,0,0,0,0,0,0,0
+FRDA,no Modifier,0,0,0,0,0,0,0,0,0,0
+autosomal recessive cardiodegenerative and neurodegenerative disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+mitochondrial iron accumulation,no Modifier,0,0,0,0,0,0,0,0,0,0
+hypersensitivity to oxidative stress,no Modifier,0,0,0,0,0,0,0,0,0,0
+FRDA,no Modifier,0,0,0,0,0,0,0,0,0,0
+G6PD deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+episodic hemolytic anemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+life-long hemolytic anemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+G6PD deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+G6PD deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+adenomatous polyposis coli,no Modifier,0,0,0,0,0,0,0,0,0,0
+adenomatous polyposis coli,no Modifier,0,0,0,0,0,0,0,0,0,0
+APC,no Modifier,0,0,0,0,0,0,0,0,0,0
+glucose-6-phosphate dehydrogenase deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+G6PD deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+G6PD deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+GALT deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+GALT deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+diastrophic dysplasia,no Modifier,0,0,0,0,0,0,0,0,0,0
+diastrophic dysplasia,no Modifier,0,0,0,0,0,0,0,0,0,0
+DTD,no Modifier,0,0,0,0,0,0,0,0,0,0
+adrenoleukodystrophy protein deficiency,no Modifier,0,0,0,1.37377,0,0,1.14098,0,0,0
+X-ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+Inherited defects,no Modifier,0,0,0,0,0,0,0,0,0,0
+peroxisomal disorder,no Modifier,0,0,0,0,0,0,0,0,0,0
+X-linked adrenoleukodystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+X-ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+X-ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+X-linked amelogenesis imperfecta,no Modifier,0,0,0,0,0,0,0,0,0,0
+inherited dental abnormality,no Modifier,0,0,0,0,0,0,0,0,0,0
+X-linked amelogenesis imperfecta,no Modifier,0,0,0,0,0,0,0,0,0,0
+XAI,no Modifier,0,0,0,0,0,0,0,0,0,0
+XAI,no Modifier,0,0,0,0,0,0,0,0,0,0
+XAI,no Modifier,0,0,0,0,0,0,0,0,0,0
+XAI disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+XAI,no Modifier,0,0,0,0,0,0,0,0,0,0
+HFE defect,no Modifier,0,0,0,0,0,0,0,0,0,0
+G6PD deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+malaria,no Modifier,0,0,0,0,0,0,0,0,0,0
+Glucose-6-phosphate dehydrogenase (G6PD) deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+enzymopathy,no Modifier,0,0,0,0,0,0,0,0,0,0
+malaria,no Modifier,0,0,0,0,0,0,0,0,0,0
+malaria,no Modifier,0,0,0,0,0,0,0,0,0,0
+G6PD deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+malaria,no Modifier,0,0,0,0,0,0,0,0,0,0
+X-linked disorder,no Modifier,0,0,0,0,0,0,0,0,0,0
+G6PD deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+G6PD A-,no Modifier,0,0,0,0,0,0,0,0,0,0
+malaria,no Modifier,0,0,0,0,0,0,0,0,0,0
+malaria,no Modifier,0,0,0,0,0,0,0,0,0,0
+enzyme deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+G6PD deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+Prader-Willi syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+chromosome 15 anomaly,no Modifier,0,0,0,0,0,0,0,0,0,0
+Prader-Willi syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+PWS,no Modifier,0,0,0,0,0,0,0,0,0,0
+PWS,no Modifier,0,0,0,0,0,0,0,0,0,0
+PWS,no Modifier,0,0,0,0,0,0,0,0,0,0
+PWS,no Modifier,0,0,0,0,0,0,0,0,0,0
+phenylketonuria,no Modifier,0,0,0,0,0,0,0,0,0,0
+hyperphenylalaninemias,no Modifier,0,0,0,0,0,0,0,0,0,0
+phenylketonuria,no Modifier,0,0,0,0,0,0,0,0,0,0
+hyperphenylalaninemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+Tay-Sachs disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+TSD,no Modifier,0,0,0,0,0,0,0,0,0,0
+pyoderma gangrenosum,no Modifier,0,0,0,0,0,0,0,0,0,0
+C7 deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+pyoderma gangrenosum,no Modifier,0,0,0,0,0,0,0,0,0,0
+PG,no Modifier,0,0,0,0,0,0,0,0,0,0
+systemic diseases,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+congenital complement deficiencies,no Modifier,0,0,0,0,0,0,0,0,0,0
+PG,no Modifier,0,0,0,0,0,0,0,0,0,0
+C7 deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+Deficiencies of C7,no Modifier,0,0,0,0,0,0,0,0,0,0
+immunologic abnormalities,no Modifier,0,0,0,0,0,0,0,0,0,0
+PG,no Modifier,0,0,0,0,0,0,0,0,0,0
+PG,no Modifier,0,0,0,0,0,0,0,0,0,0
+Emerin deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+Emery-Dreifuss muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+X-linked Emery-Dreifuss muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+EDMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+neuromuscular diseases,no Modifier,0,0,0,0,1.22993,0,0,1.09225,0,0
+EDMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+deficiency of emerin,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+EDMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+melanoma,no Modifier,0,0,0,0,0,0,0,0,0,0
+melanoma,no Modifier,0,0,0,0,0,0,0,0,0,0
+melanoma,no Modifier,0,0,0,0,0,0,0,0,0,0
+melanomas,no Modifier,0,0,0,0,0,0,0,0,0,0
+familial neurohypophyseal diabetes insipidus,no Modifier,0,0,0,0,0,0,0,0,0,0
+Familial neurohypophyseal diabetes insipidus,no Modifier,0,0,0,0,0,0,0,0,0,0
+FNDI,no Modifier,0,0,0,0,0,0,0,0,0,0
+deficiency of the hormone arginine vasopressin,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+FNDI,no Modifier,0,0,0,0,0,0,0,0,0,0
+FNDI,no Modifier,0,0,0,0,0,0,0,0,0,0
+Machado-Joseph disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+MJD,no Modifier,0,0,0,0,0,0,0,0,0,0
+neurodegenerative disorders,no Modifier,0,0,0,0,0,0,0,0,0,0
+progressive cerebellar ataxia,no Modifier,0,0,0,0,0,0,0,0,0,0
+spinocerebellar ataxia type 3,no Modifier,0,0,0,0,0,0,0,0,0,0
+SCA3,no Modifier,0,0,0,0,0,0,0,0,0,0
+MJD,no Modifier,0,0,0,0,0,0,0,0,0,0
+degeneration of certain brain areas,no Modifier,0,0,0,0,0,0,0,0,0,0
+solid tumors,no Modifier,0,0,0,0,0,0,0,0,0,0
+alveolar rhabdomyosarcoma,no Modifier,0,0,0,0,0,0,0,0,0,0
+Myotonia levior,no Modifier,0,0,0,0,0,0,0,0,0,0
+chloride channel disorder,no Modifier,0,0,0,0,0,0,0,0,0,0
+dominant non-dystrophic myotonias,no Modifier,0,0,0,0,0,0,0,0,0,0
+Dominant myotonia congenita,no Modifier,0,0,0,0,0,0,0,0,0,0
+Thomsens disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+dominant myotonias,no Modifier,0,0,0,0,0,0,0,0,0,0
+myotonia levior,no Modifier,0,0,0,0,0,0,0,0,0,0
+myotonia,no Modifier,0,0,0,0,0,0,0,0,0,0
+Thomsens disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+muscle hypertrophy,no Modifier,0,0,0,0,0,0,0,0,0,0
+myotonia levior,no Modifier,0,0,0,0,0,0,0,0,0,0
+Thomsens disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+Thomsens disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+recessive myotonia,no Modifier,0,0,0,0,0,0,0,0,0,0
+cholesterol acyltransferase deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+fish-eye disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+Classic (complete) lecithin  cholesterol acyltransferase (LCAT) deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+Fish-eye disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+partial LCAT deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+atherosclerotic cardiovascular disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+LCAT deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+classic LCAT deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+Fish-eye disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+complete or partial LCAT deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+atherosclerosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+classic LCAT deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+Fish-eye disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+atherosclerosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+adenomatous polyps of the colon and rectum,no Modifier,0,0,0,0,0,0,0,0,0,0
+colorectal cancer,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+attenuated adenomatous polyposis coli,no Modifier,0,0,0,0,0,0,0,0,0,0
+AAPC,no Modifier,0,0,0,0,0,0,0,0,0,0
+AAPC,no Modifier,0,0,0,0,0,0,0,0,0,0
+colorectal polyps,no Modifier,0,0,0,0,0,0,0,0,0,0
+colorectal cancer,no Modifier,0,0,1.12966,0,0,0,0,0,0,0
+aspartylglucosaminuria,no Modifier,0,0,0,0,0,0,0,0,0,0
+AGU,no Modifier,0,0,0,0,0,0,0,0,0,0
+Aspartylglucosaminuria,no Modifier,0,0,0,0,0,0,0,0,0,0
+AGU,no Modifier,0,0,0,0,0,0,0,0,0,0
+X-linked adrenoleukodystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+X-linked adrenoleukodystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+ALD,no Modifier,0,0,0,0,0,0,0,0,0,0
+abnormalities in the vision blindness genes,no Modifier,0,0,0,0,0,0,0,0,0,0
+Genetic hemochromatosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+GH,no Modifier,0,0,0,0,0,0,0,0,0,0
+infectious diseases,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+genetic disorders,no Modifier,0,0,0,0,0,0,0,0,0,0
+anemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+Lesch-Nyhan syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+Lesch-Nyhan syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+Familial Mediterranean fever,no Modifier,0,0,0,0,0,0,0,0,0,0
+Familial Mediterranean fever,no Modifier,0,0,0,0,0,0,0,0,0,0
+FMF,no Modifier,0,0,0,0,0,0,0,0,0,0
+recessively inherited disorder,no Modifier,0,0,0,0,0,0,0,0,0,0
+serosal inflammation,no Modifier,0,0,0,0,0,0,0,0,0,0
+Renal amyloidosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+FMF,no Modifier,0,0,0,0,0,0,0,0,0,0
+renal amyloidosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+arthritis,no Modifier,0,0,0,0,0,0,0,0,0,0
+HD,no Modifier,0,0,0,0,0,0,0,0,0,0
+colorectal polyps,no Modifier,0,0,0,0,0,0,0,0,0,0
+familial adenomatous polyposis,no Modifier,0,0,0,0,0,0,0,0,0,0
+FAP,no Modifier,0,0,0,0,0,0,0,0,0,0
+colorectal polyps,no Modifier,0,0,0,0,0,0,0,0,0,0
+polyps,no Modifier,0,0,0,0,0,0,0,0,0,0
+polyps,no Modifier,0,0,0,0,0,0,0,0,0,0
+colorectal polyps,no Modifier,0,0,0,0,0,0,0,0,0,0
+Duchenne/Becker muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+Duchenne and Becker muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+DMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+BMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+DMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+DMD defects,no Modifier,0,0,0,0,0,0,0,0,0,0
+galactosemia,no Modifier,0,0,0,0,0,0,0,0,0,0
+Gaucher disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+Gaucher disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+GD,no Modifier,0,0,0,0,0,0,0,0,0,0
+lysosomal storage disorder,no Modifier,0,0,0,0,0,0,0,0,0,0
+Prader-Willi syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+Prader-Willi syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+PWS,no Modifier,0,0,0,0,0,0,0,0,0,0
+PWS,no Modifier,0,0,0,0,0,0,0,0,0,0
+hypothalamic abnormalities,no Modifier,0,0,0,0,0,0,0,0,0,0
+cerebrotendinous xanthomatosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+genetic disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+cerebrotendinous xanthomatosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+CTX,no Modifier,0,0,0,0,0,0,0,0,0,0
+Abnormalities in the HDL,no Modifier,0,0,0,0,0,0,0,0,0,0
+CTX,no Modifier,0,0,0,0,0,0,0,0,0,0
+genetic defect,no Modifier,0,0,0,0,0,0,0,0,0,0
+CTX,no Modifier,0,0,0,0,0,0,0,0,0,0
+Papillon-Lefevre syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+Papillon-Lefevre syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+PLS,no Modifier,0,0,0,0,0,0,0,0,0,0
+autosomal recessive disorder,no Modifier,0,0,0,0,0,0,0,0,0,0
+palmoplantar hyperkeratosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+periodontitis,no Modifier,0,0,0,0,0,0,0,0,0,0
+PLS,no Modifier,0,0,0,0,0,0,0,0,0,0
+PLS,no Modifier,0,0,0,0,0,0,0,0,0,0
+PLS,no Modifier,0,0,0,0,0,0,0,0,0,0
+palmoplantar hyperkeratosis,no Modifier,0,0,0,0,0,0,0,0,0,0
+periodontitis,no Modifier,0,0,0,0,0,0,0,0,0,0
+PLS,no Modifier,0,0,0,0,0,0,0,0,0,0
+Lesch-Nyhan syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+deficiency of hypoxanthine-guanine phosphoribosyltransferase,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+Lesch-Nyhan syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+Lesch-Nyhan syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+Denys-Drash syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+Denys-Drash syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+nephropathy,no Modifier,0,0,0,0,0,0,0,0,0,0
+genital abnormalities,no Modifier,0,0,0,0,0,0,0,0,0,0
+Wilms tumor,no Modifier,0,0,0,0,0,0,0,0,0,0
+renal failure,no Modifier,0,0,0,0,0,0,0,0,0,0
+prolidase deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+prolidase deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+autosomal recessive disorder,no Modifier,0,0,0,0,0,0,0,0,0,0
+iminodipeptiduria,no Modifier,0,0,0,0,0,0,0,0,0,0
+skin ulcers,no Modifier,0,0,0,0,0,0,0,0,0,0
+mental retardation,no Modifier,0,0,0,0,0,0,0,0,0,0
+prolidase deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+isolated aniridia,no Modifier,0,0,0,0,0,0,0,0,0,0
+isolated aniridia,no Modifier,0,0,0,0,0,0,0,0,0,0
+aniridia,no Modifier,0,0,0,0,0,0,0,0,0,0
+X-linked Emery-Dreifuss muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+Emery-Dreifuss muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+EMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+X-linked EMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+ankle contractures,no Modifier,0,0,0,0,0,0,0,0,0,0
+muscle weakness,no Modifier,0,0,0,0,0,0,0,0,0,0
+Duchenne and the milder Becker muscular dystrophies,no Modifier,0,0,0,0,0,0,0,1.09225,0,0
+dystrophic syndrome,no Modifier,0,0,0,0,0,0,0,0,0,1.21605
+Duchenne/Becker muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+DMD,no Modifier,0,0,0,0,0,0,0,0,0,0
+myopathies,no Modifier,0,0,0,0,0,0,0,0,0,0
+Emery Dreifuss muscular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,1.09225,0,0
+hexosaminidase A deficiency,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+Tay-Sachs disease,no Modifier,0,0,0,0,1.22993,0,0,0,0,0
+TSD,no Modifier,0,0,0,0,0,0,0,0,0,0
+Phenylketonuria,no Modifier,0,0,0,0,0,0,0,0,0,0
+PKU,no Modifier,0,0,0,0,0,0,0,0,0,0
+deficiency of the enzyme phenylalanine hydroxylase,no Modifier,0,0,0,1.37377,0,0,0,0,0,0
+PKU,no Modifier,0,0,0,0,0,0,0,0,0,0
+Macular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+autosomal dominant retinitis pigmentosa,no Modifier,0,0,0,0,0,0,0,0,0,0
+macular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+visual loss,no Modifier,0,0,0,0,0,0,0,0,0,0
+central scotoma,no Modifier,0,0,0,0,0,0,0,0,0,0
+atrophy of the retinal pigment epithelium,no Modifier,0,0,0,0,0,0,0,0,0,0
+choriocapillaris of the macula,no Modifier,0,0,0,0,0,0,0,0,0,0
+macular dystrophy,no Modifier,0,0,0,0,0,0,1.14098,0,0,0
+cone dysfunction,no Modifier,0,0,0,0,0,0,0,0,0,0
